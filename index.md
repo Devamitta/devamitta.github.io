@@ -2,40 +2,16 @@
 
 DPD runs in [GoldenDict](https://github.com/goldendict/goldendict), which is blazing fast if slightly outdated dictionary software.
 
-[Installation Instructions for Windows](https://digitalpalidictionary.github.io/install/windows-install-instructions.html) \
-[Installation Instructions for Max](digitalpalidictionary.github.io/install/mac-install-instructions.html) \
-[Installation Instructions for Linux](digitalpalidictionary.github.io/install/linux-install-instruction.html) \
-[Installation Instructions for Andriod](digitalpalidictionary.github.io/install/andoid-install-instructions.html)
+First, get that installed on your machine ([Win](https://digitalpalidictionary.github.io/install/windows-install-instructions.html) / [Mac](https://digitalpalidictionary.github.io/install/mac-install-instructions.html) / [Linux](https://digitalpalidictionary.github.io/install/linux-install-instruction.html) / [Andriod](https://digitalpalidictionary.github.io/install/andoid-install-instructions.html))
 
+Then you need to [download DPD and add it]() to Goldendict. While you're at it, here are some [more Pāḷi dictionaries]() to intall. 
 
-### Markdown
+Next, you should really [configure the hotkey or scan-poup](). This will allow you to click on any word in any Pāḷi text, and automatically open it in GoldenDict
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are some powerful [advanced settings]() for Goldendict that might be useful to you.
 
-```markdown
-Syntax highlighted code block
+Once you're all setup, here's a handy guide to the [features]() available in DPD. 
 
-# Header 1
-## Header 2
-### Header 3
+When you spot a mistake or something missing, here's where to [report it](). It generally takes less than a minute. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/digitalpalidictionary/digitalpalidictionary.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please also let us know your bright ideas to make this dicitonary even better!
