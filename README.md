@@ -1,1 +1,0 @@
-# digitalpalidictionary.github.io
