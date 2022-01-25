@@ -1,12 +1,6 @@
-layout: page
-title: "Windows Install Instructions"
-permalink: /install/
+## GoldenDict Installation and Setup
 
-# GoldenDict Installation and Setup
-
-Digital Pāḷi Dictionary runs in GoldenDict, blazing fast if slightly outdated dictionary software. 
-
-Here's how to set it up on Windows. For Mac and Linux __click here__. 
+Here's how to set it up on Windows.
 
 First download the latest version of GoldenDict: 
 https://sourceforge.net/projects/goldendict/files/early%20access%20builds/GoldenDict-1.5.0-RC2-372-gc3ff15f-Install.exe/download
