@@ -1,0 +1,1 @@
+# About Digital Pāḷi Dictionary
