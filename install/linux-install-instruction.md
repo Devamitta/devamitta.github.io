@@ -1,12 +1,10 @@
-Linux
-
-Software Installation
+## Linux install instructions
 
 GoldenDict can be installed directly from the Software Manager
 
 Or choose the distribution of your choice from https://pkgs.org/download/goldendict
 
-Extract dictionaries
+### Extract dictionaries
 
 Choose where you would like to store your GoldenDict dictionaries, for example /Documents/GoldenDict
 
@@ -14,7 +12,7 @@ Right Click the zip file and open with Archive Manager
 
 Click Extract and select folder /Documents/GoldenDict
 
-Adding Dictionaries
+### Adding Dictionaries
 
 Launch the GoldenDict application
 
@@ -27,7 +25,7 @@ Click the recursive tick box √
 
 Click OK and wait a few moments while the dictionaries are indexing.
 
-Search
+### Search
 
 You can search for dictionary words in the search bar
 
