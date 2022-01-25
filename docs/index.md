@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+title: "Digital Pāḷi Dictionary"
+
+## Welcome to Digital Pāḷi Dictionary
+
+[Installation Instructions for Windows](https://digitalpalidictionary.github.io/windows-install-instructions.)
+[Installation Instructions for Max](https://digitalpalidictionary.github.io/windows-install-instructions.)
+[Installation Instructions for Linux](https://digitalpalidictionary.github.io/windows-install-instructions.)
+[Installation Instructions for Andrios](https://digitalpalidictionary.github.io/windows-install-instructions.)
+
 
 You can use the [editor on GitHub](https://github.com/digitalpalidictionary/digitalpalidictionary.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
