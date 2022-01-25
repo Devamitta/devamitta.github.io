@@ -1,16 +1,12 @@
-title: "Digital Pāḷi Dictionary"
-
 ## Welcome to Digital Pāḷi Dictionary
 
-[Installation Instructions for Windows](https://digitalpalidictionary.github.io/windows-install-instructions.)
-[Installation Instructions for Max](https://digitalpalidictionary.github.io/windows-install-instructions.)
-[Installation Instructions for Linux](https://digitalpalidictionary.github.io/windows-install-instructions.)
-[Installation Instructions for Andrios](https://digitalpalidictionary.github.io/windows-install-instructions.)
+DPD runs in [GoldenDict](https://github.com/goldendict/goldendict), which is blazing fast if slightly outdated dictionary software.
 
+[Installation Instructions for Windows](https://digitalpalidictionary.github.io/install/windows-install-instructions.html) \
+[Installation Instructions for Max](digitalpalidictionary.github.io/install/mac-install-instructions.html) \
+[Installation Instructions for Linux](digitalpalidictionary.github.io/install/linux-install-instruction.html) \
+[Installation Instructions for Andriod](digitalpalidictionary.github.io/install/andoid-install-instructions.html)
 
-You can use the [editor on GitHub](https://github.com/digitalpalidictionary/digitalpalidictionary.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
