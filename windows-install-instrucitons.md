@@ -1,3 +1,7 @@
+layout: page
+title: "Windows Install Instructions"
+permalink: /install/
+
 # GoldenDict Installation and Setup
 
 Digital Pāḷi Dictionary runs in GoldenDict, blazing fast if slightly outdated dictionary software. 
