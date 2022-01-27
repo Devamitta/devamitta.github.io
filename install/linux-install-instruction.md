@@ -1,16 +1,34 @@
-## Linux install instructions
+## Installing GoldenDict on Linux
 
-GoldenDict can be installed directly from the Software Manager
+GoldenDict can be installed directly with apt-get
+
+`sudo apt-get update`\
+`sudo apt-get install goldendict`
 
 Or choose the distribution of your choice from https://pkgs.org/download/goldendict
 
-### Extract dictionaries
+Or directly from the Software Manager
 
-Choose where you would like to store your GoldenDict dictionaries, for example /Documents/GoldenDict
+![software manager](https://user-images.githubusercontent.com/64521731/151267260-93e3e1ce-61c8-4f09-a8d8-b8d3448cf694.png)
 
-Right Click the zip file and open with Archive Manager 
+### Make a directory
+
+It is recommended to make an easily accessible GoldenDict folder, for example /Documents/GoldenDict
+
+`mkdir /home/{your user name}/Documents/GoldenDict`
+
+### Unzip DPD
+
+`cd home/{your user name}/Downloads`\
+`unzip /home/{your user name}/Downloads/dpd.zip -d /home/{your user name}/Documents/GoldenDict`
+
+Or right-click the zip file in your Downloads folder and open with Archive Manager
+
+![archive manager](https://user-images.githubusercontent.com/64521731/151268770-60483e5a-ddee-45fd-852f-3573b9a7c5d2.png)
 
 Click Extract and select folder /Documents/GoldenDict
+
+![extract](https://user-images.githubusercontent.com/64521731/151269003-33b8bff0-d5fe-4860-b7b6-4b7a3ef80c41.png)
 
 ### Adding Dictionaries
 
