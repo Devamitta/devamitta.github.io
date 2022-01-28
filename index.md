@@ -16,6 +16,6 @@ Once you're all setup, here's a handy guide to the [features](https://digitalpal
 
 If you spot a mistake, or notice something missing, here's where to [report it](https://docs.google.com/forms/d/e/1FAIpQLSf9boBe7k5tCwq7LdWgBHHGIPVc4ROO5yjVDo1X5LDAxkmGWQ/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io). It generally takes less than a minute. 
 
-While you're at it, here are some [more Pāḷi dictionaries](https://github.com/simsapa/simsapa-dictionary/releases) to intall in GoldenDict. The **combined-dictionary-stardict.zip** contains all of them in one file.
+While you're at it, here are some [more Pāḷi dictionaries](https://github.com/simsapa/simsapa-dictionary/releases) to intall in GoldenDict. The *combined-dictionary-stardict.zip* contains all of them in one file.
 
-If you have any bright ideas to make this dicitonary even better, please [send a mail](mailto:digitalpalidictionary@gmail.com).
+If you have any bright ideas to make this dicitonary even better, please [send me a mail](mailto:digitalpalidictionary@gmail.com).

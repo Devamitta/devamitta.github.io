@@ -1,6 +1,8 @@
 ## Installing GoldenDict on Linux
 
-First things first, dowload the latest version of Digital Pāḷi Dictionary [here](https://drive.google.com/drive/folders/1W66OXwX6KQHnK0b-7E1enZJQLjXehit4?usp=sharing).
+First things first, dowload the latest version of Digital Pāḷi Dictionary [here]().
+
+<!-- First things first, dowload the latest version of Digital Pāḷi Dictionary [here](https://drive.google.com/drive/folders/1W66OXwX6KQHnK0b-7E1enZJQLjXehit4?usp=sharing). -->
 
 ### Make a GoldenDict folder
 
