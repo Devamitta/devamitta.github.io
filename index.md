@@ -4,7 +4,7 @@ Digital Pāḷi Dictionary is a work in progress, made available for testing and
 
 You can [download the latest update here.]()  
 
-DPD runs in [GoldenDict](https://github.com/goldendict/goldendict), which is blazing fast if slightly outdated dictionary software.
+DPD runs in [GoldenDict](https://github.com/goldendict/goldendict){:target="\_blank"}, which is blazing fast if slightly outdated dictionary software.
 
 Here's how to get that installed and setup on your machine ([Win](https://digitalpalidictionary.github.io/install_win.html) / [Mac](https://digitalpalidictionary.github.io/install_mac.html) / [Linux](https://digitalpalidictionary.github.io/install_linux.html) / [Andriod](https://digitalpalidictionary.github.io/install_andoid.html))
 
@@ -14,8 +14,8 @@ Next, you should really [configure the hotkey](https://digitalpalidictionary.git
 
 Once you're all setup, here's a handy guide to the [features](https://digitalpalidictionary.github.io/features.html) available in DPD. 
 
-If you spot a mistake, or notice something missing, here's where to [report it](https://docs.google.com/forms/d/e/1FAIpQLSf9boBe7k5tCwq7LdWgBHHGIPVc4ROO5yjVDo1X5LDAxkmGWQ/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io). It generally takes less than a minute. 
+If you spot a mistake, or notice something missing, here's where to [report it](https://docs.google.com/forms/d/e/1FAIpQLSf9boBe7k5tCwq7LdWgBHHGIPVc4ROO5yjVDo1X5LDAxkmGWQ/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io){:target="\_blank"}. It generally takes less than a minute. 
 
-While you're at it, here are some [more Pāḷi dictionaries](https://github.com/simsapa/simsapa-dictionary/releases) to intall in GoldenDict. The *combined-dictionary-stardict.zip* contains all of them in one file.
+While you're at it, here are some [more pāḷi dictionaries](https://github.com/simsapa/simsapa-dictionary/releases){:target="\_blank"} to intall in GoldenDict. The *combined-dictionary-stardict.zip* contains all of them in one file.
 
 If you have any bright ideas to make this dicitonary even better, please [send me a mail](mailto:digitalpalidictionary@gmail.com).
