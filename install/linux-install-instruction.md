@@ -37,7 +37,7 @@ Or choose the distribution of your choice from https://pkgs.org/download/goldend
 
 Or directly from the Software Manager
 
-![software manager](https://user-images.githubusercontent.com/64521731/151267260-93e3e1ce-61c8-4f09-a8d8-b8d3448cf694.png)'
+![software manager](https://user-images.githubusercontent.com/64521731/151267260-93e3e1ce-61c8-4f09-a8d8-b8d3448cf694.png)
 
 Make sure to install version 1.5, not version 1.0!
 
@@ -62,4 +62,4 @@ Click OK and wait a few moments while the dictionaries are indexing.
 
 You're all setup!
 
-Next learn the basic of how to use GoldenDict and [set up the hotkey or scan pop]() so you can click on any pāḷi word in any text and open it immediately in the dictionary.
+Next learn the [basics of how to use GoldenDict and set up the hotkey or scan pop]() so you can click on any pāḷi word in any text and open it immediately in the dictionary.
