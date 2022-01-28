@@ -35,4 +35,4 @@ Of course you can also search for pāḷi words the old-fashioned way ...
 
 ![search](https://user-images.githubusercontent.com/64521731/151528519-e7cc13d1-9507-4737-bd88-f2c67b0c3744.png)
 
-Please also try out the [scan popup]() - it allows you to open a word in the dictioanry with a single click.
+Please also try out the [scan popup](https://digitalpalidictionary.github.io/setup_scan_popup.html) - it allows you to open a word in the dictioanry with a single click. [Only works on some operating systems]

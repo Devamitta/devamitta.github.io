@@ -8,10 +8,10 @@ It is recommended to make an easily accessible GoldenDict folder, for example /D
 
 ![create new folder](https://user-images.githubusercontent.com/64521731/151519119-aee19fa1-6fcf-43e0-8395-85fe67398655.png)
 
-Or in the terminal
+Or in the terminal\
 `mkdir /home/{your user name}/Documents/GoldenDict`
 
-## Unzip
+### Unzip
 
 Right-click the DPD zip file in your Downloads folder and open with Archive Manager
 
@@ -26,14 +26,14 @@ or in the terminal:
 `cd home/{your user name}/Downloads`\
 `unzip /home/{your user name}/Downloads/dpd.zip -d /home/{your user name}/Documents/GoldenDict`
 
-## Install GoldenDict
+### Install GoldenDict
 
 GoldenDict can be installed directly with apt-get
 
 `sudo apt-get update`\
 `sudo apt-get install goldendict`
 
-Or choose the distribution of your choice from https://pkgs.org/download/goldendict
+Or choose the distribution of your choice from [https://pkgs.org/download/goldendict](https://pkgs.org/download/goldendict)
 
 Or directly from the Software Manager
 
@@ -45,7 +45,7 @@ Make sure to install version 1.5, not version 1.0!
 
 Launch the GoldenDict application
 
-Go to Menu > Edit > Dictionaries (Shortcut F3)
+Go to Menu > Edit > Dictionaries (Shortcut **F3**)
 
 ![dictionaries F3](https://user-images.githubusercontent.com/64521731/151520353-72b82a7e-e27b-49bb-bb84-394ed7bac6f1.png)
 
@@ -62,4 +62,4 @@ Click OK and wait a few moments while the dictionaries are indexing.
 
 You're all setup!
 
-Next learn the [basics of how to use GoldenDict and set up the hotkey or scan pop]() so you can click on any pāḷi word in any text and open it immediately in the dictionary.
+Next learn the [set up the hotkey or scan pop](https://digitalpalidictionary.github.io/setup_hotkey.html) so you can click on any pāḷi word in any text and open it immediately in the dictionary.
