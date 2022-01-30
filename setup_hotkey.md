@@ -1,7 +1,7 @@
-## Setting up the hotkey in GoldenDict
+## How to setup the hotkey
 
 Whehter you use [Sutta Central](https://suttacentral.net/), [Digital Pāli Reader](https://www.digitalpalireader.online/_dprhtml/index.html), [
-Tipitaka Pali Projector](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab), [tipitaka.app](https://tipitaka.app/), PDF documents or any other source of pāli texts, this allows you to click on a word and open it immeditely in the dictionary. 
+Tipitaka Pali Projector](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab), [tipitaka.app](https://tipitaka.app/), PDF documents or any other source of Pāḷi texts, this allows you to click on a word and open it immeditely in the dictionary. 
 
 Go to Menu > Edit > Preferences (Shortcut F4) > Hotkeys
 
@@ -11,7 +11,7 @@ Choose your preferred hotkey and click OK. The default Ctrl-C-C works nicely, th
 
 ![hoteky](https://user-images.githubusercontent.com/64521731/151525627-95f8d5ce-eb88-46ec-9a03-fa34f63fbb04.png)
 
-Double click to highlight any Pāli word in any software or pdf and press the hotkey. A small GoldenDict window will open. DPD will automatically find any inflected word in the dictionary.
+Double click to highlight any Pāḷi word in any software or pdf and press the hotkey. A small GoldenDict window will open. DPD will automatically find any inflected word in the dictionary.
 
 ![popupwindow](https://user-images.githubusercontent.com/64521731/151526299-d8cd23c2-5e7c-4fd3-aeda-0e83b48c65e9.png)
 

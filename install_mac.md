@@ -1,4 +1,4 @@
-### Mac
+### Install GoldenDict on Mac
 Download DPD
 Click the link to the latest version in your email and save the file to your drive.
 

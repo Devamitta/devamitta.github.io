@@ -1,4 +1,4 @@
-# Android Install Instructions
+## Install GoldenDict on Android
 
 Download and install from the Google Play Sore
 https://play.google.com/store/apps/details?id=mobi.goldendict.android.free

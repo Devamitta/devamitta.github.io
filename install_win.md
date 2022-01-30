@@ -1,4 +1,4 @@
-## GoldenDict Installation and Setup
+## Install GoldenDict on Windows
 
 Here's how to set it up on Windows.
 
@@ -68,7 +68,7 @@ Go to Menu > Edit > Preferences (F4)
 
 Choose your preferred hotkey and click OK
  
-Select any Pāli word in any software or pdf and press the hotkey. A small GoldenDict window will open. DPD will automatically find any inflected word in the dictionary. 
+Select any Pāḷi word in any software or pdf and press the hotkey. A small GoldenDict window will open. DPD will automatically find any inflected word in the dictionary. 
 
 Auto-Start
 You can set GoldenDict to auto-start when your computer boots up.

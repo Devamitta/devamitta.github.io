@@ -6,7 +6,7 @@ You can [download the latest update here.]()
 
 DPD runs in [GoldenDict](https://github.com/goldendict/goldendict){:target="\_blank"}, which is blazing fast if slightly outdated dictionary software.
 
-Here's how to get that installed and setup on your machine ([Win](https://digitalpalidictionary.github.io/install_win.html) / [Mac](https://digitalpalidictionary.github.io/install_mac.html) / [Linux](https://digitalpalidictionary.github.io/install_linux.html) / [Andriod](https://digitalpalidictionary.github.io/install_andoid.html))
+Here's how to get GoldenDict installed and setup on your machine ([Win](https://digitalpalidictionary.github.io/install_win.html) / [Mac](https://digitalpalidictionary.github.io/install_mac.html) / [Linux](https://digitalpalidictionary.github.io/install_linux.html) / [Andriod](https://digitalpalidictionary.github.io/install_andoid.html))
 
 Next, you should really [configure the hotkey](https://digitalpalidictionary.github.io/setup_hotkey.html) or try the [scan-popup](https://digitalpalidictionary.github.io/setup_scan_popup.html). This will allow you to click on any word in any Pāḷi text, and automatically open it in GoldenDict
 
