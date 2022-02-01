@@ -92,12 +92,4 @@ Wait while the dictionary gets indexed.
 You're all setup!
 
 Next learn the [set up the hotkey or scan pop](https://digitalpalidictionary.github.io/setup_hotkey.html) so you can click on any Pāḷi word in any text and open it immediately in the dictionary.
-## Install GoldenDict on Windows
-
-
-
-
-
-
-
 

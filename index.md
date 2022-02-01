@@ -2,9 +2,11 @@
 
 Digital Pāḷi Dictionary is a work in progress, made available for testing and feedback purposes.
 
-You can download the latest version of Digital Pāḷi Dictionary from [Google Drive](https://drive.google.com/drive/folders/1W66OXwX6KQHnK0b-7E1enZJQLjXehit4?usp=sharing){:target="\_blank"}.
+You can download the latest version of DPD from [Google Drive](https://drive.google.com/drive/folders/1W66OXwX6KQHnK0b-7E1enZJQLjXehit4?usp=sharing){:target="\_blank"}.
 
-DPD runs in [GoldenDict](https://github.com/goldendict/goldendict){:target="\_blank"}, which is blazing fast if slightly outdated dictionary software.
+<!-- DPD runs in [GoldenDict](https://github.com/goldendict/goldendict){:target="\_blank"}, which is blazing fast if slightly outdated dictionary software. -->
+
+DPD runs in GoldenDict, which is blazing fast if slightly outdated dictionary software.
 
 Here's how to get GoldenDict installed and setup on your machine ([Win](https://digitalpalidictionary.github.io/install_win.html) / [Mac](https://digitalpalidictionary.github.io/install_mac.html) / [Linux](https://digitalpalidictionary.github.io/install_linux.html) / [Andriod](https://digitalpalidictionary.github.io/install_andoid.html))
 
