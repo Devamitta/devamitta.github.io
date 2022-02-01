@@ -1,154 +1,102 @@
-## Install GoldenDict on Linux
+## Install GoldenDict on Windows
 
 First things first, download the latest version of Digital Pāḷi Dictionary [here](https://drive.google.com/drive/folders/1W66OXwX6KQHnK0b-7E1enZJQLjXehit4?usp=sharing).
 
+![download dpd](https://user-images.githubusercontent.com/64521731/152008026-476b5662-5618-4049-b230-dbbb4e770922.png)
+
 ### Make a GoldenDict folder
 
-It is recommended to make an easily accessible GoldenDict folder, for example /Documents/GoldenDict
+It is recommended to make an easily accessible GoldenDict folder, for example `\Documents\GoldenDict`
 
-![create new folder](https://user-images.githubusercontent.com/64521731/151519119-aee19fa1-6fcf-43e0-8395-85fe67398655.png)
-
-Or in the terminal\
-`mkdir /home/your_user_name/Documents/GoldenDict`
-
-(Obviously, substitute your_user_name with your actual user name)
+![goldendict folder](https://user-images.githubusercontent.com/64521731/152007000-757fe69d-4721-458f-acaa-e7cc1cbeb787.png)
 
 ### Unzip
 
-Right-click the DPD zip file in your Downloads folder and open it with Archive Manager.
+Right-click the DPD zip file in your Downloads folder and click Extract All.
 
-![archive manager](https://user-images.githubusercontent.com/64521731/151268770-60483e5a-ddee-45fd-852f-3573b9a7c5d2.png)
+![extract all](https://user-images.githubusercontent.com/64521731/152007143-f5d8945d-436e-4fba-a960-d0944379adb6.png)
 
-Click Extract and select the folder `/Documents/GoldenDict`
+Selct the `\Documents\GoldenDict` folder and click Extract
 
-![extract](https://user-images.githubusercontent.com/64521731/151269003-33b8bff0-d5fe-4860-b7b6-4b7a3ef80c41.png)
+![extract to](https://user-images.githubusercontent.com/64521731/152007333-56ff98fd-4f0b-4662-84ee-6d103f9682ae.png)
 
-Or in the terminal:
+There will now be a `DPD` folder in `\Documents\GoldenDict`
 
-`cd home/your_user_name/Downloads`\
-`unzip /home/your_user_name/Downloads/dpd.zip -d /home/your_user_name/Documents/GoldenDict`
+![extracted folder](https://user-images.githubusercontent.com/64521731/152007517-ad2397a8-bd07-4498-9cc5-b78d08231d40.png)
+
 
 ### Install GoldenDict
 
-GoldenDict can be installed directly with apt-get:
+Download the latest version of GoldenDict from [Sourceforge](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/GoldenDict-1.5.0-RC2-372-gc3ff15f-Install.exe/download)
 
-`sudo apt-get update`\
-`sudo apt-get install goldendict`
+Go to your `Downloads` folder and double click `GoldenDict-1.5.0-RC2-372-gc3ff15f-Install.exe`
 
-Or choose the distribution of your choice from [https://pkgs.org/download/goldendict](https://pkgs.org/download/goldendict):
+![gd exe](https://user-images.githubusercontent.com/64521731/152008884-05d67316-9472-4e28-80f2-7511ef5e36a3.png)
 
-Or directly from the Software Manager:
+Choose your language. Click __OK__
 
-![software manager](https://user-images.githubusercontent.com/64521731/151267260-93e3e1ce-61c8-4f09-a8d8-b8d3448cf694.png)
+![select language](https://user-images.githubusercontent.com/64521731/152008925-35ac9fbe-e044-43e2-9bfa-6d48a610d60c.png)
 
-Make sure to install version 1.5, not version 1.0!
+Click Next
 
-### Adding Dictionaries to GoldenDict
+![setup welcome](https://user-images.githubusercontent.com/64521731/152008962-f3ebba04-cf1d-4b48-9757-270380610f07.png)
 
-Launch the GoldenDict application
+Click I Agree
 
-Go to Menu > Edit > Dictionaries (Shortcut **F3**)
+![gd license](https://user-images.githubusercontent.com/64521731/152008994-d0442c7f-4c15-4203-9aba-a55cb2c9c551.png)
 
-![dictionaries F3](https://user-images.githubusercontent.com/64521731/151520353-72b82a7e-e27b-49bb-bb84-394ed7bac6f1.png)
+Choose your install location and click __Next__.
 
-Go to Sources > Files.\
-Click Add and select folder `/Documents/GoldenDict`
+![choose default install location](https://user-images.githubusercontent.com/64521731/152009134-6823ba0a-3c96-46f2-8cfa-946e15605624.png)
 
-![add](https://user-images.githubusercontent.com/64521731/151520594-7fc56dd9-6413-4526-8474-28db75941a61.png)
+Click Install
 
-Click the recursive tick box √ (this makes sure GoldenDict searches in subfolders)
+![choose start menu folder](https://user-images.githubusercontent.com/64521731/152009347-ad66ec5b-edb8-4573-9458-be5497ea4e15.png)
 
-![recursive](https://user-images.githubusercontent.com/64521731/151520889-a1b2a2a9-3530-4d19-a4fa-7f96956b6ff5.png)
+Installing …
 
-Click OK and wait a few moments while the dictionaries are indexing.
+![installing](https://user-images.githubusercontent.com/64521731/152009386-e40ad7b0-9860-49be-bc23-cc5edae4f49d.png)
+
+Click Finish
+
+![install finshed](https://user-images.githubusercontent.com/64521731/152009411-a1cd1447-cbb1-4171-beb1-7aa77d44b9af.png)
+
+### Setting up GoldenDict 
+
+Run GoldenDict from the Start Menu
+
+![gd icon](https://user-images.githubusercontent.com/64521731/152010004-ca63d2ce-a433-4825-b026-af3e3ab2951e.png)
+
+Open Menu > Edit > Dictionaries (Shortcut F3)
+
+![edit dictionaries](https://user-images.githubusercontent.com/64521731/152010078-4540aaa7-d12e-42d2-a112-84205684ddcc.png)
+
+Click Add
+
+![add button](https://user-images.githubusercontent.com/64521731/152010103-48fdf95c-ac9b-4476-9635-8b17ea2504f7.png)
+
+Navigate to `\Documents\GoldenDict` and click Select Folder
+
+Tick the __Recursive__ check-box (this makes sure all subfolders get added)
+
+![recursive](https://user-images.githubusercontent.com/64521731/152010176-5b759d95-45de-46a4-9683-2af7fd06fdba.png)
+
+Click OK
+
+![ok](https://user-images.githubusercontent.com/64521731/152010296-62fd7776-d431-4f1e-acb0-59c7f43417d9.png)
+
+Wait while the dictionary gets indexed.
+
+![indexing](https://user-images.githubusercontent.com/64521731/152010324-763129c7-1d11-441a-a233-3081f84ce5b9.png)
 
 You're all setup!
 
-Next learn the [set up the hotkey or scan pop](https://digitalpalidictionary.github.io/setup_hotkey.html) so you can click on any pāḷi word in any text and open it immediately in the dictionary.
+Next learn the [set up the hotkey or scan pop](https://digitalpalidictionary.github.io/setup_hotkey.html) so you can click on any Pāḷi word in any text and open it immediately in the dictionary.
 ## Install GoldenDict on Windows
 
 
 
-Here's how to set it up on Windows.
 
-First download the latest version of GoldenDict: 
-https://sourceforge.net/projects/goldendict/files/early%20access%20builds/GoldenDict-1.5.0-RC2-372-gc3ff15f-Install.exe/download
-
-Run GoldenDict-1.5.0-RC2-372-gc3ff15f-Install.exe 
-(it should be in your Downloads folder)
-
-Choose your language. Click __OK__
-
-Click Next
-
-Click I Agree
-
-Choose your install location. C:\Program Files\GoldenDict is default. Click Next
-
-Click Install
-
-Installing …
-
-Click Finish
-
-Unzipping DPD
-
-Find the DPD.zip file in your Downloads Folder
-
-Right Click and Extract All
-
-Click Extract
-
-Extracting …
-
-Done
-
-Setting up GoldenDict 
-
-Run GoldenDict from the Start Menu
-
-Open Menu > Edit > Dictionaries
-
-Click Add
-
-Navigate to the DPD folder and click Select Folder
-
-Tick the Recursive Check Box and click Rescan Now
-
-Wait while the dictionary gets indexed.
-
-Once it is done, click Apply
-
-Now DPD should appear as a dictionary.
-
-Searching
-
-Go to Menu > View and click Search Pane (Ctrl-S)
-
-Start typing in the Search Bar and click the word you are looking for.
-
-Search results will display in the main window.
-
-Setting up a Hotkey
-
-You can set up a hotkey to look up a word in GoldenDict while using any other software.
-
-Go to Menu > Edit > Preferences (F4)
-
-Choose your preferred hotkey and click OK
- 
-Select any Pāḷi word in any software or pdf and press the hotkey. A small GoldenDict window will open. DPD will automatically find any inflected word in the dictionary. 
-
-Auto-Start
-You can set GoldenDict to auto-start when your computer boots up.
-
-Enjoy!
-
-Already a GoldenDict user?
-
-Just add the DPD folder to the folder which GoldenDict currently uses. 
-
-To find that, open Edit > Dictionaries  (Shortcut F3) and look for the path where your GoldenDict files are kept.
 
 
 
