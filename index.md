@@ -21,3 +21,5 @@ If you spot a mistake, or notice something missing, here's where to [report it](
 While you're at it, here are some [more pāḷi dictionaries](https://github.com/simsapa/simsapa-dictionary/releases){:target="\_blank"} to intall in GoldenDict. The *combined-dictionary-stardict.zip* contains all of them in one file.
 
 If you have any bright ideas to make this dicitonary even better, please [send me a mail](mailto:digitalpalidictionary@gmail.com).
+
+Once you're all setup, [update](https://digitalpalidictionary.github.io/update.html) DPD every full moon to get the most up-to-date Pāḷi information. 
