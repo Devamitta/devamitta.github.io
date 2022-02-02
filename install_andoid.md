@@ -4,7 +4,7 @@ First things first, download the latest version of Digital Pāḷi Dictionary fr
 
 Download and install GoldenDict from the [Google Play Store](https://play.google.com/store/apps/details?id=mobi.goldendict.android.free)
 
-Using any file manager, copy the DPD folder into GoldenDict folder. You can find that in the root directory, or on your SD card if you have one.
+Using any file manager, copy the DPD folder into the GoldenDict folder. You can find that in the root directory, or on your SD card if you have one.
 
 ![image](https://user-images.githubusercontent.com/64521731/152172120-961947a1-576b-4e23-9a62-fee5466bbd78.png)
 
@@ -20,4 +20,4 @@ When the indexing is finished, click **Done**.
 
 You're all set up!
 
-You can access DPD at any time from any app by selcting a word, holding until the options menu comes up, and clicking **Share > GoldenDict**.
+You can access DPD at any time from any app by selcting a word, holding it until the options menu comes up, and clicking **Share > GoldenDict**.
