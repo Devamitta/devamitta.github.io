@@ -1,77 +1,81 @@
-### Install GoldenDict on Mac
-Download DPD
-Click the link to the latest version in your email and save the file to your drive.
-
-Double click the file to unzip it
-
-### Download GoldenDict
-Downloads the file from here and save
-https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X
-
-## Install GoldenDict on Linux
+## Install GoldenDict on Mac
 
 First things first, download the latest version of Digital Pāḷi Dictionary [here](https://drive.google.com/drive/folders/1W66OXwX6KQHnK0b-7E1enZJQLjXehit4?usp=sharing).
 
-### Make a GoldenDict folder
-
-It is recommended to make an easily accessible GoldenDict folder, for example /Documents/GoldenDict
-
-![create new folder](https://user-images.githubusercontent.com/64521731/151519119-aee19fa1-6fcf-43e0-8395-85fe67398655.png)
-
-Or in the terminal\
-`mkdir /home/your_user_name/Documents/GoldenDict`
-
-(Obviously, substitute your_user_name with your actual user name)
-
 ### Unzip
 
-Right-click the DPD zip file in your Downloads folder and open it with Archive Manager.
+Find the .zip file in your downloads folder and unzip it.
 
-![archive manager](https://user-images.githubusercontent.com/64521731/151268770-60483e5a-ddee-45fd-852f-3573b9a7c5d2.png)
+<img width="485" alt="unzip dpd" src="https://user-images.githubusercontent.com/64521731/152539904-2438bb53-258b-48ff-8b28-40dfb41af38f.png">
 
-Click Extract and select the folder `/Documents/GoldenDict`
+### Make a GoldenDict folder
 
-![extract](https://user-images.githubusercontent.com/64521731/151269003-33b8bff0-d5fe-4860-b7b6-4b7a3ef80c41.png)
+It is recommended to make an easily accessible GoldenDict folder, for example `/Documents/GoldenDict`
 
-Or in the terminal:
+<img width="470" alt="documents folder" src="https://user-images.githubusercontent.com/64521731/152540198-5e370c26-8151-4bab-aa27-1f6103174b99.png">
 
-`cd home/your_user_name/Downloads`\
-`unzip /home/your_user_name/Downloads/dpd.zip -d /home/your_user_name/Documents/GoldenDict`
+Copy the unipped DPD folder into `/Documents/GoldenDict`
+
+<img width="485" alt="documents gd dpd" src="https://user-images.githubusercontent.com/64521731/152540676-3b9d3375-4fed-49bc-9343-04cc2a0595df.png">
+
+-------------------------------------------------
+
+### Download GoldenDict
+
+Downloads the right version of GoldenDict for your system [here](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
 
 ### Install GoldenDict
 
-GoldenDict can be installed directly with apt-get:
+Double click the .dmg file in your Downloads folder.
 
-`sudo apt-get update`\
-`sudo apt-get install goldendict`
+<img width="470" alt="download gd" src="https://user-images.githubusercontent.com/64521731/152541080-78782c6a-9f30-4b26-b39e-975b9913202c.png">
 
-Or choose the distribution of your choice from [https://pkgs.org/download/goldendict](https://pkgs.org/download/goldendict):
+Double click the installer.
 
-Or directly from the Software Manager:
+<img width="628" alt="goldendict install" src="https://user-images.githubusercontent.com/64521731/152541137-29c7c435-818f-494b-ae76-81b4015d7672.png">
 
-![software manager](https://user-images.githubusercontent.com/64521731/151267260-93e3e1ce-61c8-4f09-a8d8-b8d3448cf694.png)
+You'll probably get a security warning like this. 
 
-Make sure to install version 1.5, not version 1.0!
+<img width="258" alt="warning" src="https://user-images.githubusercontent.com/64521731/152541289-6f6863c6-0a79-45e0-b3b5-aa0b8b2fdb31.png">
+
+Click cancel and open Security and Privacy Preferences. Click Open Anyway.
+
+<img width="627" alt="allow gd" src="https://user-images.githubusercontent.com/64521731/152541444-b190fc8b-59bc-4431-8dd5-6185cd911ee4.png">
+
+Click Open on the next security warning. 
+
+<img width="258" alt="next security warning" src="https://user-images.githubusercontent.com/64521731/152541594-2403207d-b686-4bfe-b855-4d079b06cac2.png">
+
+Ok, you're installed. Now let's add a dictionary. 
+
+-------------------------------------------------
 
 ### Adding Dictionaries to GoldenDict
 
-Launch the GoldenDict application
+Launch the GoldenDict application.
 
-Go to Menu > Edit > Dictionaries (Shortcut **F3**)
+Go to Menu > Edit > Dictionaries (Shortcut **F3**).
 
-![dictionaries F3](https://user-images.githubusercontent.com/64521731/151520353-72b82a7e-e27b-49bb-bb84-394ed7bac6f1.png)
+<img width="552" alt="edit dictionaries" src="https://user-images.githubusercontent.com/64521731/152541928-2190d28e-770a-4354-a8b3-d7ec2e592e11.png">
 
-Go to Sources > Files.\
-Click Add and select folder `/Documents/GoldenDict`
+Go to Sources > Files. Click Add.
 
-![add](https://user-images.githubusercontent.com/64521731/151520594-7fc56dd9-6413-4526-8474-28db75941a61.png)
+<img width="989" alt="sources files" src="https://user-images.githubusercontent.com/64521731/152542020-78b06572-2184-4710-b5d2-92d1bda74a01.png">
 
-Click the recursive tick box √ (this makes sure GoldenDict searches in subfolders)
+Select the folder `/Documents/GoldenDict`.
 
-![recursive](https://user-images.githubusercontent.com/64521731/151520889-a1b2a2a9-3530-4d19-a4fa-7f96956b6ff5.png)
+<img width="798" alt="select gd folder" src="https://user-images.githubusercontent.com/64521731/152542139-5f6a68b7-3d62-4393-bc01-eb82012c2ea0.png">
+
+Click the recursive tick box √ (this makes sure GoldenDict searches in subfolders).
+
+<img width="430" alt="recursive" src="https://user-images.githubusercontent.com/64521731/152542257-ac352670-7a05-4730-80ba-1a2ca2d25b9c.png">
 
 Click OK and wait a few moments while the dictionaries are indexing.
 
+<img width="917" alt="indexing" src="https://user-images.githubusercontent.com/64521731/152542305-a4da925c-8de4-4438-91ce-ec4b759fd872.png">
+
 You're all setup!
 
-Next learn the [set up the hotkey or scan pop](https://digitalpalidictionary.github.io/setup_hotkey.html) so you can click on any pāḷi word in any text and open it immediately in the dictionary.
+-------------------------------------------------
+
+Next learn the [set up the hotkey or scan pop](https://digitalpalidictionary.github.io/setup_hotkey.html) so you can click on any inflected Pāḷi word in any text and open it immediately in the dictionary.
