@@ -4,9 +4,7 @@ A new version becomes available every full moon uposatha day.
 
 Updating is very easy. 
 
-Download the latest version of DPD from [Google Drive](https://drive.google.com/drive/folders/1W66OXwX6KQHnK0b-7E1enZJQLjXehit4?usp=sharing){:target="\_blank"}.
-
-![download dpd](https://user-images.githubusercontent.com/64521731/152008026-476b5662-5618-4049-b230-dbbb4e770922.png)
+Download the latest version of DPD from [Github](https://github.com/digitalpalidictionary/dpd/releases){:target="\_blank"}.
 
 Unzip the DPD folder and copy it to your GoldenDict folder. 
 
