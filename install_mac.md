@@ -1,6 +1,6 @@
 ## Install GoldenDict on Mac
 
-First things first, download the latest version of Digital Pāḷi Dictionary [here](https://drive.google.com/drive/folders/1W66OXwX6KQHnK0b-7E1enZJQLjXehit4?usp=sharing).
+First things first, download the latest version of Digital Pāḷi Dictionary from [Github](https://github.com/digitalpalidictionary/dpd/releases){:target="\_blank"}.
 
 ### Unzip
 
