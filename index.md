@@ -1,6 +1,6 @@
 ## Welcome to Digital Pāḷi Dictionary
 
-Digital Pāḷi Dictionary is a feature-rich Pāḷi dicctionary which runs in GoldenDict, or any other application that supports the Stardict format.
+Digital Pāḷi Dictionary is a feature-rich Pāḷi dictionary which runs in GoldenDict, or any other application that supports the Stardict format.
 
 It is a work in progress, made available for testing and feedback purposes.
 
