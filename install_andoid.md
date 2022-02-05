@@ -2,8 +2,6 @@
 
 First things first, download the latest version of Digital Pāḷi Dictionary from [Github](https://github.com/digitalpalidictionary/dpd/releases){:target="\_blank"}.
 
-![download dpd](https://user-images.githubusercontent.com/64521731/152008026-476b5662-5618-4049-b230-dbbb4e770922.png)
-
 Download and install GoldenDict from the [Google Play Store](https://play.google.com/store/apps/details?id=mobi.goldendict.android.free)
 
 ![google play store](https://user-images.githubusercontent.com/64521731/152176609-919f7067-4985-41e1-b309-febf206198bb.jpg)
