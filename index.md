@@ -4,7 +4,7 @@ Digital Pāḷi Dictionary is a feature-rich Pāḷi dictionary which runs in Go
 
 It is a work in progress, made available for testing and feedback purposes.
 
-You can always download the latest version of DPD from [Github](https://github.com/digitalpalidictionary/dpd/releases){:target="\_blank"}.
+You can always download the latest version of DPD from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases){:target="\_blank"}.
 
 Here's how to get GoldenDict installed and setup on your machine ([Win](https://digitalpalidictionary.github.io/install_win.html) / [Mac](https://digitalpalidictionary.github.io/install_mac.html) / [Linux](https://digitalpalidictionary.github.io/install_linux.html) / [Android](https://digitalpalidictionary.github.io/install_andoid.html))
 
