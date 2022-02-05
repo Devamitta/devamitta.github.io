@@ -1,10 +1,10 @@
 ## Welcome to Digital Pāḷi Dictionary
 
-Digital Pāḷi Dictionary is a work in progress, made available for testing and feedback purposes.
+Digital Pāḷi Dictionary is a feature-rich Pāḷi dicctionary which runs in GoldenDict, or any other application that supports the Stardict format.
 
-You can download the latest version of DPD from [Google Drive](https://drive.google.com/drive/folders/1W66OXwX6KQHnK0b-7E1enZJQLjXehit4?usp=sharing){:target="\_blank"}.
+It is a work in progress, made available for testing and feedback purposes.
 
-DPD runs in GoldenDict, which is blazing fast if slightly outdated dictionary software.
+You can always download the latest version of DPD from [Github](https://github.com/digitalpalidictionary/dpd/releases){:target="\_blank"}.
 
 Here's how to get GoldenDict installed and setup on your machine ([Win](https://digitalpalidictionary.github.io/install_win.html) / [Mac](https://digitalpalidictionary.github.io/install_mac.html) / [Linux](https://digitalpalidictionary.github.io/install_linux.html) / [Android](https://digitalpalidictionary.github.io/install_andoid.html))
 
@@ -20,4 +20,8 @@ While you're at it, here are some [more Pāḷi dictionaries](https://github.com
 
 If you have any bright ideas to make this dicitonary even better, please [send me a mail](mailto:digitalpalidictionary@gmail.com).
 
-Once you're all setup, [update](https://digitalpalidictionary.github.io/update.html) DPD every full moon to get the most up-to-date Pāḷi information. 
+Once you're all setup, [update](https://digitalpalidictionary.github.io/update.html) DPD every full moon to get the most up-to-date Pāḷi information.
+
+Digital Pāḷi Dictionary is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
