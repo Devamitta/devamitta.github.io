@@ -1,26 +1,26 @@
-## How to setup scan-pop
-Devamitta Pāḷi Study
-Scan popup works best on Linux. Mileage may vary on other operating systems. 
+## Как настроить всплывающее окно
 
-In GoldenDict, open Edit > Preferences (Shortcut F4)
+Настройка всплывающего окна лучше работает в Linux. В других операционных системах эта функция может быть заменена [горячими клавишами](https://devamitta.github.io/setup_hotkey_ru.html)
 
-![edit preferences](https://user-images.githubusercontent.com/64521731/152180589-bbe7edf1-2041-45dc-98a4-136226f84cb6.png)
+В главном меню откройте вкладку «Правка» > «Параметры» (горячая клавиша F4)
 
-Go to the Scan Popup tab and **enable scan popup functionality**. With these settings every word you click on will open in the dictionary
+![image](https://user-images.githubusercontent.com/39419221/153721786-c34a2381-ae3c-4f27-88bc-e5095632b744.png)
 
-![scan popup tab](https://user-images.githubusercontent.com/64521731/152180804-60ce3b9e-471a-41ae-b918-49e5c1102449.png)
+Перейдите во вкладку  «Всплывающее окно» > и отметьте галочкой **Разрешить всплывающее окно**. С этой функцией каждое выделенное слово открываться в словаре.
 
-If that setting is a little extreme for you, try the setting in the pic below. 
+<img width="614" alt="image" src="https://user-images.githubusercontent.com/39419221/153722139-1905eac5-78e1-4944-9bc2-c4b9a743d8e3.png">
 
-![settings with scan flag](https://user-images.githubusercontent.com/64521731/152181965-59aff251-7e94-4395-88ba-df00f3590aec.png)
+Если это слишком экстримально для вас, можете попробовать установки со следующей картинки.
 
-Now, when you click a word in a Pāḷi text, a small dictionary icon will appear. Click it to open the word in the dictionary. 
+<img width="611" alt="image" src="https://user-images.githubusercontent.com/39419221/153722175-a0d13831-1a2f-4921-8647-776953e01d6f.png">
+
+Теперь, когда вы выделяете слово в тексте Пали, маленькия ярлык словаря появляется. Если нажать по нему, то слово будет показано в словаре.
 
 ![popup icon](https://user-images.githubusercontent.com/64521731/152181555-5c77c7e2-6085-4e5b-9f13-e25ceaffc7ad.png)
 
-The settings I personally use are in the pic below. This opens the scan popup in the main window by pressing Alt-Shift. 
+Настройки я лично предпочитаю представленны на следующей картинке. С этими настройками слово открывается в словаре при выделении и зажатии сомбинации клавиш Ctrl + Win 
 
-![settings personal](https://user-images.githubusercontent.com/64521731/152182360-971b9e30-98d0-4e3c-a987-b88ba3357b48.png)
+<img width="611" alt="image" src="https://user-images.githubusercontent.com/39419221/153722134-56958220-f9f1-4897-8fff-97e914f41fa7.png">
 
-Please experiment to find the settings that are comfortable for you. 
+Пожалуйста найдите более оптимальные настройки лично для вас.
 
