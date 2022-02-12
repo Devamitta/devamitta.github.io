@@ -17,7 +17,7 @@
 
 <!-- There are some powerful [advanced settings]() for Goldendict that might be useful to you. -->
 
-После успешной установки и настройки, здесь описание основных [функций](https://devamitta.github.io/features_ru.html) доступных в DPS. 
+После успешной установки и настройки, здесь описание основных [особенностей](https://devamitta.github.io/features_ru.html) доступных в DPS. 
 
 Если вы обнаружили ошибку или у вас есть идея об улучшении словаря, пожалуйста [сообщите здесь](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io). Обычно это не должно занять больше минуты. 
 
