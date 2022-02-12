@@ -1,34 +1,33 @@
 ## Добро пожаловать в проект Devamitta Pāḷi Study
 
-Devamitta Pāḷi Study
-([Eng](https://devamitta.github.io/index_eng.html)
+<!-- Devamitta Pāḷi Study on English:
+([Eng](https://devamitta.github.io/index_eng.html)) -->
 
-Devamitta Pāḷi Study это образовательный проект и находится на стадии тестирования и редактирования. Ваши предложения и комментарии будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря. Этот словарь основывается на DPD Digital Pāli Dictionary by Ven. Bodhirasa.
+Эта работа основывается на DPD <b> Digital Pāli Dictionary by Ven. Bodhirasa </b> ([website](https://digitalpalidictionary.github.io/index.html))
 
-Это Пали - Англо -Русский словарь с большим колличеством фунций работающих с помощью программы GoldenDict
+Это Пали-Англо-Русский словарь с большим колличеством фунций работающих с помощью программы GoldenDict, или в любом другом приложении поддерживающим Stardict формат словаря.
 
-Digital Pāḷi Dictionary is a feature-rich Pāḷi dictionary which runs in GoldenDict, or any other application that supports the Stardict format.
+Это образовательный проект и находится на стадии тестирования и редактирования. Ваши предложения и комментарии будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря.
 
-It is a work in progress, made available for testing and feedback purposes.
+Всегда можно загрузить обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
 
-You can always download the latest version of DPD from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases){:target="\_blank"}.
+Здесь инструкции как установить и настроить GoldenDict на ([Win](https://devamitta.github.io/install_win_ru.html) / [Mac](https://devamitta.github.io/install_mac_ru.html) / [Linux](https://devamitta.github.io/install_linux_ru.html) / [Android](https://devamitta.github.io/install_andoid_ru.html))
 
-Here's how to get GoldenDict installed and setup on your machine ([Win](https://digitalpalidictionary.github.io/install_win.html) / [Mac](https://digitalpalidictionary.github.io/install_mac.html) / [Linux](https://digitalpalidictionary.github.io/install_linux.html) / [Android](https://digitalpalidictionary.github.io/install_andoid.html))
-
-Next, you should really [configure the hotkey](https://digitalpalidictionary.github.io/setup_hotkey.html) or try the [scan-popup](https://digitalpalidictionary.github.io/setup_scan_popup.html). This will allow you to click on any word in any Pāḷi text, and automatically open it in GoldenDict
+Далее можно [настроить горячие клавиши](https://devamitta.github.io/setup_hotkey_ru.html) или попробовать [сканировать](https://devamitta.github.io/setup_scan_popup_ru.html). Это позволит вам в один клик открыть выделенное слово на Пали в GoldenDict.
 
 <!-- There are some powerful [advanced settings]() for Goldendict that might be useful to you. -->
 
-Once you're all setup, here's a handy guide to the [features](https://digitalpalidictionary.github.io/features.html) available in DPD. 
+После успешной установки и настройки, здесь инструкции об основных [функциях](https://devamitta.github.io/features_ru.html) доступных в DPS. 
 
-If you spot a mistake, or notice something missing, here's where to [report it](https://docs.google.com/forms/d/e/1FAIpQLSf9boBe7k5tCwq7LdWgBHHGIPVc4ROO5yjVDo1X5LDAxkmGWQ/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io){:target="\_blank"}. It generally takes less than a minute. 
+Если вы обнаружили ошибку или имеете предложение, пожалуйста [сообщите здесь](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io). Обычно это не должно занять больше минуты. 
 
-While you're at it, here are some [more Pāḷi dictionaries](https://github.com/simsapa/simsapa-dictionary/releases){:target="\_blank"} to intall in GoldenDict. The *combined-dictionary-stardict.zip* contains all of them in one file.
+Здесь набор 
+While you're at it, here are some [других Pāḷi dictionaries](https://drive.google.com/drive/folders/11BIajwc1ADLIZnYXO2Y4_oX_Y9pxQeLT?usp=sharing) to intall in GoldenDict.
 
-If you have any bright ideas to make this dicitonary even better, please [send me a mail](mailto:digitalpalidictionary@gmail.com).
+If you have any bright ideas to make this dicitonary even better, please [send me a mail](mailto:rusdevamitta@gmail.com).
 
-Once you're all setup, [update](https://digitalpalidictionary.github.io/update.html) DPD every full moon to get the most up-to-date Pāḷi information.
+Once you're all setup, [update](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing) DPS regularly to get the most up-to-date Pāḷi information.
 
-Digital Pāḷi Dictionary is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/){:target="\_blank"}.
+Devamitta Pāḷi Study is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
