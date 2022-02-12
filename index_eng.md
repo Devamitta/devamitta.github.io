@@ -1,4 +1,4 @@
-## Welcome to Digital Pāḷi Dictionary
+## Welcome to Devamitta Pāḷi Study
 
 Digital Pāḷi Dictionary is a feature-rich Pāḷi dictionary which runs in GoldenDict, or any other application that supports the Stardict format.
 
