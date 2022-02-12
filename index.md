@@ -13,7 +13,7 @@
 
 Здесь инструкции как установить и настроить GoldenDict на ([Win](https://devamitta.github.io/install_win_ru.html) / [Mac](https://devamitta.github.io/install_mac_ru.html) / [Linux](https://devamitta.github.io/install_linux_ru.html) / [Android](https://devamitta.github.io/install_andoid_ru.html))
 
-Далее можно [настроить горячие клавиши](https://devamitta.github.io/setup_hotkey_ru.html) или попробовать [сканировать](https://devamitta.github.io/setup_scan_popup_ru.html). Это позволит вам в один клик открыть выделенное слово на Пали в GoldenDict.
+Далее можно [настроить горячие клавиши](https://devamitta.github.io/setup_hotkey_ru.html) или попробовать [всплывающее окно](https://devamitta.github.io/setup_scan_popup_ru.html). Это позволит вам в один клик открыть выделенное слово на Пали в GoldenDict.
 
 <!-- There are some powerful [advanced settings]() for Goldendict that might be useful to you. -->
 
