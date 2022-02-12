@@ -6,23 +6,23 @@
 
 ![Screenshot_2022-02-12-20-15-31-19_b5a5c5cb02ca09c784c5d88160e2ec24](https://user-images.githubusercontent.com/39419221/153716231-c05e12be-1d57-4e12-a9a6-c866c4e3f54a.jpg)
 
-
 Используя любой файловый менеджер, скопируйте папку DPD в папку GoldenDict. Вы можете найти эту папку в корневом каталоге вашего устройства или на SD-карте, если она у вас есть.
+![Screenshot_2022-02-12-20-16-49-75_e66e28f718147b6e7216efe19a1092f5](https://user-images.githubusercontent.com/39419221/153716280-b3cac6fb-9087-4e93-b360-b658b2ffa2d0.jpg)
+![Screenshot_2022-02-12-20-18-21-44_e66e28f718147b6e7216efe19a1092f5](https://user-images.githubusercontent.com/39419221/153716285-45cc1748-8ae9-4d17-8ed7-bda58cc4f3ff.jpg)
 
-![image](https://user-images.githubusercontent.com/64521731/152172120-961947a1-576b-4e23-9a62-fee5466bbd78.png)
+Запустите приложение GoldenDict.
+Появится сообщение о том, что словарь необходимо проиндексировать. Нажмите **Начать**.
+![Screenshot_2022-02-12-20-18-41-09_6bf3dd84459163113b585c2f39941cfa](https://user-images.githubusercontent.com/39419221/153716311-ce0290a3-d393-4152-8a1e-aecd039e42f0.jpg)
 
-Появится сообщение о том, что словарь необходимо проиндексировать. Нажмите **Proceed**.
+Когда индексация будет завершена, нажмите **Выполненно**.
 
-![image](https://user-images.githubusercontent.com/64521731/152172611-8dfc89e6-4bbc-450c-9d80-40b5a0399200.png)
-
-Когда индексация будет завершена, нажмите **Done**.
-
-![image](https://user-images.githubusercontent.com/64521731/152172715-85f00bb1-e6a0-4a93-abdc-534d65092358.png)
+![Screenshot_2022-02-12-20-19-29-56_6bf3dd84459163113b585c2f39941cfa](https://user-images.githubusercontent.com/39419221/153716324-2b8f690c-0ebe-43b7-81ca-f39c18adae1c.jpg)
 
 Установка и настройка завешены!
 
 Вы можете получить доступ к DPS в любое время из любого приложения, выбрав слово, удерживая его, пока не появится меню параметров, и выбрав **Share > GoldenDict**.
 
-![dps in goldendict](https://user-images.githubusercontent.com/39419221/153715691-fcee7517-7da5-4e3b-9178-773da33ba3cf.jpg)
+![Screenshot_2022-02-12-20-20-01-82_6bf3dd84459163113b585c2f39941cfa](https://user-images.githubusercontent.com/39419221/153716343-13cc1590-9bf4-46ed-8d57-7419b66e1b2f.jpg)
+
 
 
