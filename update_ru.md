@@ -1,19 +1,19 @@
-## Update Devamitta Pāḷi Study
+## Обновить DPS
 
-A new version becomes available every full moon uposatha day. 
+Новая версия становится доступной регулярно.
 
-Updating is very easy. 
+Обновить очень просто.
 
-Download the latest version of DPS from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases){:target="\_blank"}.
+Загрузите обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
 
-Unzip the DPS folder and copy it to your GoldenDict folder. 
+Распакуйте папку DPS и скопируйте ее в папку GoldenDict.
 
-Make sure to replace all the contents of the old folder.
+Обязательно замените все содержимое старой папки.
 
-EITHER close GoldenDict completely and re-open it (make sure it's not active in your system tray)
+**ЛИБО** полностью закройте GoldenDict и снова откройте его (убедитесь, что он не активен в системном трее)
 
-OR go to Edit > Preferences (Shortcut F3) and click **rescan now** and **OK**. 
+**ИЛИ** в главном меню перейдите в «Правка» > «Параметры» (сочетание клавиш F3) и нажмите **пересканировать** и **ОК**.
 
-![rescan now](https://user-images.githubusercontent.com/64521731/152185695-37abde9c-1159-48c0-928b-55fe73aed255.png)
+<img width="737" alt="image" src="https://user-images.githubusercontent.com/39419221/153720863-f868d7c1-d0e1-44d9-8814-2c52af23d82b.png">
 
-Enjoy the most up-to-date Pāḷi information!
+Пожалуйста используйте последние обновления словаря.
