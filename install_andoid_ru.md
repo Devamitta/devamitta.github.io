@@ -22,5 +22,6 @@
 
 Вы можете получить доступ к DPS в любое время из любого приложения, выбрав слово, удерживая его, пока не появится меню параметров, и выбрав **Share > GoldenDict**.
 
-![dps in goldendict]("/least-github-pages/pics/android install/dps in goldendict.jpg")
+![dps in goldendict](https://user-images.githubusercontent.com/39419221/153715691-fcee7517-7da5-4e3b-9178-773da33ba3cf.jpg)
+
 
