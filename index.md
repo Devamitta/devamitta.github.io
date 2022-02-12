@@ -17,17 +17,16 @@
 
 <!-- There are some powerful [advanced settings]() for Goldendict that might be useful to you. -->
 
-После успешной установки и настройки, здесь инструкции об основных [функциях](https://devamitta.github.io/features_ru.html) доступных в DPS. 
+После успешной установки и настройки, здесь описание основных [функций](https://devamitta.github.io/features_ru.html) доступных в DPS. 
 
-Если вы обнаружили ошибку или имеете предложение, пожалуйста [сообщите здесь](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io). Обычно это не должно занять больше минуты. 
+Если вы обнаружили ошибку или у вас есть идея об улучшении словаря, пожалуйста [сообщите здесь](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io). Обычно это не должно занять больше минуты. 
 
-Здесь набор 
-While you're at it, here are some [других Pāḷi dictionaries](https://drive.google.com/drive/folders/11BIajwc1ADLIZnYXO2Y4_oX_Y9pxQeLT?usp=sharing) to intall in GoldenDict.
+Также есть небольшое собрание англо-палийских и санскритско-английских словарей для GoldenDict использующих латиницу, вместе с небольшой подборкой русских и английских словарей. Все это можно скачать [ссылке](https://drive.google.com/drive/folders/11BIajwc1ADLIZnYXO2Y4_oX_Y9pxQeLT?usp=sharing).
 
-If you have any bright ideas to make this dicitonary even better, please [send me a mail](mailto:rusdevamitta@gmail.com).
+Очень ценно иметь взгляд со стороны и свежие идеи. Пожалуйста не стесняйтесь и выражайте свое мнение. [Отправьте сообщение по почте](mailto:rusdevamitta@gmail.com).
 
-Once you're all setup, [update](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing) DPS regularly to get the most up-to-date Pāḷi information.
+Как только вы установили и настроили все, проверяйте наличие, [обновлений](https://devamitta.github.io/update_ru.html) DPS регулярно, чтобы иметь доступ к последней информации словаря.
 
-Devamitta Pāḷi Study is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+Devamitta Pāḷi Study имеет лицензию [С указанием авторства-Некоммерческая-С сохранением условий версии 4.0 Международная](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.ru).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
