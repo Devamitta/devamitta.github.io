@@ -1,5 +1,5 @@
 ## Install GoldenDict on Windows
-
+Devamitta Pāḷi Study
 First things first, download the latest version of Digital Pāḷi Dictionary from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases){:target="\_blank"}.
 
 ### Make a GoldenDict folder

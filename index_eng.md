@@ -1,10 +1,11 @@
 ## Welcome to Devamitta Pāḷi Study
 
+Devamitta Pāḷi Study
 Digital Pāḷi Dictionary is a feature-rich Pāḷi dictionary which runs in GoldenDict, or any other application that supports the Stardict format.
 
 It is a work in progress, made available for testing and feedback purposes.
 
-You can always download the latest version of DPD from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases){:target="\_blank"}.
+You can always download the latest version of DPS from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases){:target="\_blank"}.
 
 Here's how to get GoldenDict installed and setup on your machine ([Win](https://digitalpalidictionary.github.io/install_win.html) / [Mac](https://digitalpalidictionary.github.io/install_mac.html) / [Linux](https://digitalpalidictionary.github.io/install_linux.html) / [Android](https://digitalpalidictionary.github.io/install_andoid.html))
 
@@ -12,7 +13,7 @@ Next, you should really [configure the hotkey](https://digitalpalidictionary.git
 
 <!-- There are some powerful [advanced settings]() for Goldendict that might be useful to you. -->
 
-Once you're all setup, here's a handy guide to the [features](https://digitalpalidictionary.github.io/features.html) available in DPD. 
+Once you're all setup, here's a handy guide to the [features](https://digitalpalidictionary.github.io/features.html) available in DPS. 
 
 If you spot a mistake, or notice something missing, here's where to [report it](https://docs.google.com/forms/d/e/1FAIpQLSf9boBe7k5tCwq7LdWgBHHGIPVc4ROO5yjVDo1X5LDAxkmGWQ/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io){:target="\_blank"}. It generally takes less than a minute. 
 
@@ -20,7 +21,7 @@ While you're at it, here are some [more Pāḷi dictionaries](https://github.com
 
 If you have any bright ideas to make this dicitonary even better, please [send me a mail](mailto:digitalpalidictionary@gmail.com).
 
-Once you're all setup, [update](https://digitalpalidictionary.github.io/update.html) DPD every full moon to get the most up-to-date Pāḷi information.
+Once you're all setup, [update](https://digitalpalidictionary.github.io/update.html) DPS every full moon to get the most up-to-date Pāḷi information.
 
 Digital Pāḷi Dictionary is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/){:target="\_blank"}.
 

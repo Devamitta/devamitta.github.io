@@ -1,4 +1,5 @@
 ## Features
+Devamitta Pāḷi Study
 
 ### DPS recognises many inflected forms of Pāḷi words
 When you selct on a word in a Pāḷi text and press the hotkey, DPS automatically recognises all the headwords to which that inflected form belongs. For example, clicking on _takkarassa_ will automatically open _takkara_. 

@@ -1,5 +1,6 @@
 ## Добро пожаловать в проект Devamitta Pāḷi Study
 
+Devamitta Pāḷi Study
 ([Eng](https://devamitta.github.io/index_eng.html)
 
 Devamitta Pāḷi Study это образовательный проект и находится на стадии тестирования и редактирования. Ваши предложения и комментарии будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря. Этот словарь основывается на DPD Digital Pāli Dictionary by Ven. Bodhirasa.

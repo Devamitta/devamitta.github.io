@@ -1,5 +1,5 @@
 ## How to setup scan-pop
-
+Devamitta Pāḷi Study
 Scan popup works best on Linux. Mileage may vary on other operating systems. 
 
 In GoldenDict, open Edit > Preferences (Shortcut F4)

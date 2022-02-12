@@ -1,4 +1,4 @@
-## Update Digital Pāḷi Dictionary
+## Update Devamitta Pāḷi Study
 
 A new version becomes available every full moon uposatha day. 
 

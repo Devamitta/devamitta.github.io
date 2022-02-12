@@ -1,5 +1,5 @@
 ## Install GoldenDict on Android
-
+Devamitta Pāḷi Study
 First things first, download the latest version of Digital Pāḷi Dictionary from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases){:target="\_blank"}.
 
 Download and install GoldenDict from the [Google Play Store](https://play.google.com/store/apps/details?id=mobi.goldendict.android.free)
