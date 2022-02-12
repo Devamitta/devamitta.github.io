@@ -2,7 +2,7 @@
 
 Загрузите последнее обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing).
 
-Загрузите и установите GoldenDict из [Google Play Store](https://play.google.com/store/apps/details?id=mobi.goldendict.android.free)
+Установите GoldenDict из [Google Play Store](https://play.google.com/store/apps/details?id=mobi.goldendict.android.free)
 
 ![google play store](https://user-images.githubusercontent.com/64521731/152176609-919f7067-4985-41e1-b309-febf206198bb.jpg)
 
