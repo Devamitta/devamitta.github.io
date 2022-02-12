@@ -36,7 +36,7 @@
 ### Склонение/Спряжение
 Нажмите кнопку **declension** или **conjugation**, чтобы увидеть все изменяемые формы слова.
 
-<img width="621" alt="image" src="https://user-images.githubusercontent.com/39419221/153718905-973d2c6d-63d1-48eb-b0c5-7220cad0f9df.png">
+![image](https://user-images.githubusercontent.com/39419221/153719098-aa5df493-253b-4f8b-b6d2-1ec6c8006189.png)
 
 Эта таблица автоматически генерируется с использованием системы основы + шаблона, например. anicc + o. Неправильно склоняемые формы имеют свои уникальные таблицы.
 
