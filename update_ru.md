@@ -19,3 +19,5 @@
 ![image](https://user-images.githubusercontent.com/39419221/153735523-e69edbf1-f454-4844-b5f8-4f6c1684618f.png)
 
 Пожалуйста используйте последние обновления словаря.
+
+[Главная](https://devamitta.github.io/index.html)
