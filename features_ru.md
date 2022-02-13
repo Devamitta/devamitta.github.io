@@ -74,3 +74,5 @@
 
 ### Шрифты
 Если вы предпочитаете шрифт sans-serif, вы можете установить [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans), он хорошо работает с диакритикой Пали. Если вы предпочитаете шрифт serif, вы можете установить [Deja Vu Serif](https://www.fontsquirrel.com/fonts/dejavu-serif). или [Verajja Serif](https://en.m.fontke.com/font/10186264/), шрифт который был специально разработан для текстов на Пали. 
+
+[Главная](https://devamitta.github.io/index.html)
