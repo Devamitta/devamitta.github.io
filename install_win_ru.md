@@ -1,22 +1,19 @@
 ## Install GoldenDict on Windows
-Devamitta Pāḷi Study
+
 First things first, download the latest version of Digital Pāḷi Dictionary from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases){:target="\_blank"}.
-
-### Make a GoldenDict folder
-
-It is recommended to make an easily accessible GoldenDict folder, for example `\Documents\GoldenDict`
-
-![goldendict folder](https://user-images.githubusercontent.com/64521731/152007000-757fe69d-4721-458f-acaa-e7cc1cbeb787.png)
 
 ### Unzip
 
 Right-click the DPD zip file in your Downloads folder and click Extract All.
 
-![extract all](https://user-images.githubusercontent.com/64521731/152007143-f5d8945d-436e-4fba-a960-d0944379adb6.png)
+![image](https://user-images.githubusercontent.com/39419221/153735610-c02a998a-6632-4c09-a0fe-159958897827.png)
+
+![image](https://user-images.githubusercontent.com/39419221/153735620-d778e52e-2f8c-4f33-8e98-7844790ab8f1.png)
+
 
 Selct the `\Documents\GoldenDict` folder and click Extract
+![image](https://user-images.githubusercontent.com/39419221/153735624-06c488d3-c68d-44a1-a025-6c764102e820.png)
 
-![extract to](https://user-images.githubusercontent.com/64521731/152007333-56ff98fd-4f0b-4662-84ee-6d103f9682ae.png)
 
 There will now be a `DPD` folder in `\Documents\GoldenDict`
 
@@ -33,61 +30,61 @@ Go to your `Downloads` folder and double click `GoldenDict-1.5.0-RC2-372-gc3ff15
 
 Choose your language. Click __OK__
 
-![select language](https://user-images.githubusercontent.com/64521731/152008925-35ac9fbe-e044-43e2-9bfa-6d48a610d60c.png)
+![image](https://user-images.githubusercontent.com/39419221/153735663-5743c5ad-14a5-49e7-b18b-52e48fc96334.png)
 
 Click Next
 
-![setup welcome](https://user-images.githubusercontent.com/64521731/152008962-f3ebba04-cf1d-4b48-9757-270380610f07.png)
+![image](https://user-images.githubusercontent.com/39419221/153735666-c97eef19-7668-4b10-92ca-250b5f14bffd.png)
 
 Click I Agree
 
-![gd license](https://user-images.githubusercontent.com/64521731/152008994-d0442c7f-4c15-4203-9aba-a55cb2c9c551.png)
+![image](https://user-images.githubusercontent.com/39419221/153735671-89623774-b329-43f1-aa6b-cc9e4fff67bb.png)
 
 Choose your install location and click __Next__.
 
-![choose default install location](https://user-images.githubusercontent.com/64521731/152009134-6823ba0a-3c96-46f2-8cfa-946e15605624.png)
+![image](https://user-images.githubusercontent.com/39419221/153735673-2416ccff-f56e-495c-a117-4a3fccc8e227.png)
 
 Click Install
 
-![choose start menu folder](https://user-images.githubusercontent.com/64521731/152009347-ad66ec5b-edb8-4573-9458-be5497ea4e15.png)
+![image](https://user-images.githubusercontent.com/39419221/153735681-cd87c775-6950-4f3d-91e2-019a0fd967b0.png)
 
 Installing …
 
-![installing](https://user-images.githubusercontent.com/64521731/152009386-e40ad7b0-9860-49be-bc23-cc5edae4f49d.png)
+![image](https://user-images.githubusercontent.com/39419221/153735684-5ff9f3e3-6dc2-4718-aa75-6c9acb8854a6.png)
 
 Click Finish
-
-![install finshed](https://user-images.githubusercontent.com/64521731/152009411-a1cd1447-cbb1-4171-beb1-7aa77d44b9af.png)
+![image](https://user-images.githubusercontent.com/39419221/153735686-f4def32a-0c7d-4e91-a794-f15074d5c032.png)
 
 ### Setting up GoldenDict 
 
 Run GoldenDict from the Start Menu
 
-![gd icon](https://user-images.githubusercontent.com/64521731/152010004-ca63d2ce-a433-4825-b026-af3e3ab2951e.png)
+![image](https://user-images.githubusercontent.com/39419221/153735706-fd758692-7f56-41da-b44a-937f63c9e59a.png)
 
 Open Menu > Edit > Dictionaries (Shortcut F3)
 
-![edit dictionaries](https://user-images.githubusercontent.com/64521731/152010078-4540aaa7-d12e-42d2-a112-84205684ddcc.png)
+![image](https://user-images.githubusercontent.com/39419221/153735717-22389fb4-8ff0-4f17-a0b5-4c370bdee3b9.png)
 
 Click Add
 
-![add button](https://user-images.githubusercontent.com/64521731/152010103-48fdf95c-ac9b-4476-9635-8b17ea2504f7.png)
+![image](https://user-images.githubusercontent.com/39419221/153735719-f3fbcf14-df6c-4a21-b9f8-630fa2d4d0a7.png)
 
 Navigate to `\Documents\GoldenDict` and click Select Folder
 
+![image](https://user-images.githubusercontent.com/39419221/153735727-0ebf6f80-7423-4d45-ba17-cb93c439111a.png)
+
+
 Tick the __Recursive__ check-box (this makes sure all subfolders get added)
 
-![recursive](https://user-images.githubusercontent.com/64521731/152010176-5b759d95-45de-46a4-9683-2af7fd06fdba.png)
+![image](https://user-images.githubusercontent.com/39419221/153735732-6a7b1cad-86b5-4cb0-90a2-06fca18592a0.png)
 
 Click OK
 
-![ok](https://user-images.githubusercontent.com/64521731/152010296-62fd7776-d431-4f1e-acb0-59c7f43417d9.png)
+![image](https://user-images.githubusercontent.com/39419221/153735739-416e174e-26f8-4421-a668-95bd2753dc7e.png)
 
 Wait while the dictionary gets indexed.
 
-![indexing](https://user-images.githubusercontent.com/64521731/152010324-763129c7-1d11-441a-a233-3081f84ce5b9.png)
-
 You're all setup!
 
-Next learn the [set up the hotkey or scan pop](https://digitalpalidictionary.github.io/setup_hotkey.html) so you can click on any Pāḷi word in any text and open it immediately in the dictionary.
+Next learn the [set up the hotkey](https://devamitta.github.io/setup_hotkey_ru.html) or [scan popup](https://devamitta.github.io/setup_scan_popup_ru.html) so you can click on any Pāḷi word in any text and open it immediately in the dictionary.
 
