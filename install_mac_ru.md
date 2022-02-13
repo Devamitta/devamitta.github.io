@@ -79,3 +79,5 @@ You're all setup!
 -------------------------------------------------
 
 Next learn the [set up the hotkey or scan pop](https://digitalpalidictionary.github.io/setup_hotkey.html) so you can click on any inflected Pāḷi word in any text and open it immediately in the dictionary.
+
+[Главная](https://devamitta.github.io/index.html)
