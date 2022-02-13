@@ -1,8 +1,5 @@
 ## Словарь DPS
 
-<!-- Devamitta Pāḷi Study on English:
-([Eng](https://devamitta.github.io/index_eng.html)) -->
-
 Эта работа основывается на DPD <b> Digital Pāli Dictionary by Ven. Bodhirasa </b> ([website](https://digitalpalidictionary.github.io/index.html))
 
 Это Пали-Англо-Русский словарь с большим колличеством фунций работающих с помощью программы GoldenDict, или в любом другом приложении поддерживающим Stardict формат словаря.
