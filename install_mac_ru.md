@@ -1,6 +1,6 @@
 ## Install GoldenDict on Mac
-Devamitta Pāḷi Study
-First things first, download the latest version of Digital Pāḷi Dictionary from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases){:target="\_blank"}.
+
+Сперва загрузите последнее обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
 
 ### Unzip
 
@@ -14,7 +14,7 @@ It is recommended to make an easily accessible GoldenDict folder, for example `/
 
 <img width="470" alt="documents folder" src="https://user-images.githubusercontent.com/64521731/152540198-5e370c26-8151-4bab-aa27-1f6103174b99.png">
 
-Copy the unipped DPD folder into `/Documents/GoldenDict`
+Copy the unipped DPS folder into `/Documents/GoldenDict`
 
 <img width="485" alt="documents gd dpd" src="https://user-images.githubusercontent.com/64521731/152540676-3b9d3375-4fed-49bc-9343-04cc2a0595df.png">
 
@@ -74,10 +74,8 @@ Click OK and wait a few moments while the dictionaries are indexing.
 
 <img width="917" alt="indexing" src="https://user-images.githubusercontent.com/64521731/152542305-a4da925c-8de4-4438-91ce-ec4b759fd872.png">
 
-You're all setup!
+Установка и настройка завершены!
 
--------------------------------------------------
-
-Next learn the [set up the hotkey or scan pop](https://digitalpalidictionary.github.io/setup_hotkey.html) so you can click on any inflected Pāḷi word in any text and open it immediately in the dictionary.
+Далее можно посмотреть статью как  [настроить горячие клавиши](https://devamitta.github.io/setup_hotkey_ru.html) или [всплывающее окно](https://devamitta.github.io/setup_scan_popup_ru.html) так что по одному щелчку можно открывать любое слово на Пали в словаре.
 
 [Главная](https://devamitta.github.io/index.html)
