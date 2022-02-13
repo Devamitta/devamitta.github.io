@@ -38,3 +38,5 @@ Of course you can also search for pāḷi words the old-fashioned way ...
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/39419221/153735304-70884944-3e97-4087-8b22-78499ed4ed3c.png">
 
 Please also try out the [scan popup](https://devamitta.github.io/setup_scan_popup_ru.html) - it allows you to open a word in the dictioanry with a single click. [Only works on some operating systems]
+
+[Главная](https://devamitta.github.io/index.html)
