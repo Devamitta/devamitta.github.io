@@ -1,67 +1,68 @@
-## Install GoldenDict on Linux
-Devamitta Pāḷi Study
-First things first, download the latest version of Digital Pāḷi Dictionary from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases){:target="\_blank"}.
+## Установка GoldenDict на Linux
 
-### Make a GoldenDict folder
+Сперва загрузите последнее обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
 
-It is recommended to make an easily accessible GoldenDict folder, for example /Documents/GoldenDict
+### Создание папки GoldenDict
+
+Рекомендуется создать легкодоступную папку GoldenDict, например /Documents/GoldenDict
 
 ![create new folder](https://user-images.githubusercontent.com/64521731/151519119-aee19fa1-6fcf-43e0-8395-85fe67398655.png)
 
-Or in the terminal\
+Либо использйте командную строку:
+
 `mkdir /home/your_user_name/Documents/GoldenDict`
 
-(Obviously, substitute your_user_name with your actual user name)
+(Замените your_user_name вашим фактическим именем пользователя)
 
-### Unzip
+### Распаковка
 
-Right-click the DPD zip file in your Downloads folder and open it with Archive Manager.
+Щелкните правой кнопкой мыши ZIP-файл DPS в папке «Загрузки» и откройте его с помощью диспетчера архивов.
 
 ![archive manager](https://user-images.githubusercontent.com/64521731/151268770-60483e5a-ddee-45fd-852f-3573b9a7c5d2.png)
 
-Click Extract and select the folder `/Documents/GoldenDict`
+Нажмите Извлечь и выберите папку `/Documents/GoldenDict`
 
 ![extract](https://user-images.githubusercontent.com/64521731/151269003-33b8bff0-d5fe-4860-b7b6-4b7a3ef80c41.png)
 
-Or in the terminal:
+Либо использйте командную строку:
 
 `cd home/your_user_name/Downloads`\
-`unzip /home/your_user_name/Downloads/dpd.zip -d /home/your_user_name/Documents/GoldenDict`
+`unzip /home/your_user_name/Downloads/dps.zip -d /home/your_user_name/Documents/GoldenDict`
 
-### Install GoldenDict
+### Установка GoldenDict
 
-GoldenDict can be installed directly with apt-get:
+GoldenDict можно установить напрямую с помощью apt-get:
 
 `sudo apt-get update`\
 `sudo apt-get install goldendict`
 
-Or choose the distribution of your choice from [https://pkgs.org/download/goldendict](https://pkgs.org/download/goldendict){:target="\_blank"}:
+Или выберите нужный дистрибутив из [https://pkgs.org/download/goldendict](https://pkgs.org/download/goldendict){:target="\_blank"}:
 
-Or directly from the Software Manager:
+Или напрямую из Центра Приложений
 
 ![software manager](https://user-images.githubusercontent.com/64521731/151267260-93e3e1ce-61c8-4f09-a8d8-b8d3448cf694.png)
 
-Make sure to install version 1.5, not version 1.0!
+Убедитесь, что установлена версия 1.5, а не версия 1.0!
 
-### Adding Dictionaries to GoldenDict
+### Добавление словарей в GoldenDict
 
-Launch the GoldenDict application
+Запустите приложение GoldenDict.
 
-Go to Menu > Edit > Dictionaries (Shortcut **F3**)
+Зайдите в Меню > Правка > Словари (Горячая клавиша **F3**)
 
 ![dictionaries F3](https://user-images.githubusercontent.com/64521731/151520353-72b82a7e-e27b-49bb-bb84-394ed7bac6f1.png)
 
-Go to Sources > Files.\
-Click Add and select folder `/Documents/GoldenDict`
+Во вкладке Источники > Файлы.\
+Нажмите Добавить и выберите папку `/Documents/GoldenDict`
 
 ![add](https://user-images.githubusercontent.com/64521731/151520594-7fc56dd9-6413-4526-8474-28db75941a61.png)
 
-Click the recursive tick box √ (this makes sure GoldenDict searches in subfolders)
+Установите флажок Рекурсивно √ (это обеспечит поиск GoldenDict во вложенных папках)
 
 ![recursive](https://user-images.githubusercontent.com/64521731/151520889-a1b2a2a9-3530-4d19-a4fa-7f96956b6ff5.png)
 
-Click OK and wait a few moments while the dictionaries are indexing.
+Нажмите OK и подождите несколько секунд, пока словари индексируются.
 
-You're all setup!
+Установка и настройка завершены!
 
-Next learn the [set up the hotkey or scan pop](https://digitalpalidictionary.github.io/setup_hotkey.html) so you can click on any pāḷi word in any text and open it immediately in the dictionary.
+Далее можно посмотреть статью как  [настроить горячие клавиши](https://devamitta.github.io/setup_hotkey_ru.html) или [всплывающее окно](https://devamitta.github.io/setup_scan_popup_ru.html) так что по одному щелчку можно открывать любое слово на Пали в словаре.
