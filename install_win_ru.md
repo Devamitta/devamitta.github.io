@@ -80,3 +80,4 @@
 
 Далее можно посмотреть статью как  [настроить горячие клавиши](https://devamitta.github.io/setup_hotkey_ru.html) или [всплывающее окно](https://devamitta.github.io/setup_scan_popup_ru.html) так что по одному щелчку можно открывать любое слово на Пали в словаре.
 
+[Главная](https://devamitta.github.io/index.html)
