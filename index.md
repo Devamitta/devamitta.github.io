@@ -9,9 +9,9 @@
 
 Это образовательный проект и находится на стадии тестирования и редактирования. Ваши предложения и комментарии будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря.
 
-Всегда можно загрузить обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
+Последнее обновление DPS можно скачать с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
 
-Здесь инструкции как установить и настроить GoldenDict на ([Win](https://devamitta.github.io/install_win_ru.html) / [Mac](https://devamitta.github.io/install_mac_ru.html) / [Linux](https://devamitta.github.io/install_linux_ru.html) / [Android](https://devamitta.github.io/install_andoid_ru.html))
+Здесь инструкции как установить и настроить GoldenDict на ([Windows](https://devamitta.github.io/install_win_ru.html) / [Mac](https://devamitta.github.io/install_mac_ru.html) / [Linux](https://devamitta.github.io/install_linux_ru.html) / [Android](https://devamitta.github.io/install_andoid_ru.html))
 
 Далее можно [настроить горячие клавиши](https://devamitta.github.io/setup_hotkey_ru.html) или попробовать [всплывающее окно](https://devamitta.github.io/setup_scan_popup_ru.html). Это позволит вам в один клик открыть выделенное слово на Пали в GoldenDict.
 
