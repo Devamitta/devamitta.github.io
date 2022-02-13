@@ -6,7 +6,9 @@
 
 Загрузите обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
 
-Распакуйте папку DPS и скопируйте ее в папку GoldenDict.
+Распакуйте папку DPS.
+
+При желании скопируйте ее в папку с вашими словарями GoldenDict.
 
 Обязательно замените все содержимое старой папки.
 
@@ -14,6 +16,6 @@
 
 **ИЛИ** в главном меню перейдите в «Правка» > «Словари» (сочетание клавиш F3) и нажмите **пересканировать** и **ОК**.
 
-<img width="737" alt="image" src="https://user-images.githubusercontent.com/39419221/153720863-f868d7c1-d0e1-44d9-8814-2c52af23d82b.png">
+![image](https://user-images.githubusercontent.com/39419221/153735523-e69edbf1-f454-4844-b5f8-4f6c1684618f.png)
 
 Пожалуйста используйте последние обновления словаря.
