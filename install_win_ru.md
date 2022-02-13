@@ -15,10 +15,6 @@ Selct the `\Documents\GoldenDict` folder and click Extract
 ![image](https://user-images.githubusercontent.com/39419221/153735624-06c488d3-c68d-44a1-a025-6c764102e820.png)
 
 
-There will now be a `DPD` folder in `\Documents\GoldenDict`
-
-![extracted folder](https://user-images.githubusercontent.com/64521731/152007517-ad2397a8-bd07-4498-9cc5-b78d08231d40.png)
-
 
 ### Install GoldenDict
 
