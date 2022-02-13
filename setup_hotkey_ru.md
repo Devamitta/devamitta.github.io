@@ -1,42 +1,43 @@
-## How to setup the hotkey
+## Как настроить горячие клавиши
 
 
-Whehter you use [Sutta Central](https://suttacentral.net/){:target="\_blank"}, [Digital Pāli Reader](https://www.digitalpalireader.online/_dprhtml/index.html){:target="\_blank"}, [
-Tipitaka Pali Projector](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab){:target="\_blank"}, [Tipitaka.app](https://tipitaka.app/){:target="\_blank"}, PDF documents or any other source of Pāḷi texts, this allows you to click on a word and open it immeditely in the dictionary. 
+Что бы вы ни использовали для чтения текста на Пали - [Sutta Central](https://suttacentral.net/), [Digital Pāli Reader](https://www.digitalpalireader.online/_dprhtml/index.html), [
+Tipitaka Pali Projector](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab), [Tipitaka.app](https://tipitaka.app/), документы в формате PDF или любой другой источник, возможно нажав на слово сразу же открыть его в словаре.
 
-Go to Menu > Edit > Preferences (Shortcut F4) > Hotkeys
+Нажмите Меню > Правка > НАстройки (F4) > **Горячие Клавиши**
 
 ![image](https://user-images.githubusercontent.com/39419221/153735225-9f5ed1db-d221-42a7-b2d7-52701befc88a.png)
 
-
-Choose your preferred hotkey and click OK. The default Ctrl+C+C works nicely, there's no need to change it.
+Выберите предпочитаемую горячую клавишу и нажмите OK. Комбинация Ctrl+C+C по умолчанию прекрасно работает, ее не нужно менять.
 
 ![image](https://user-images.githubusercontent.com/39419221/153735233-fb1fc65d-7265-4f7c-86ef-5ebaa689d8cc.png)
 
-Double click to highlight any Pāḷi word in any software or pdf and press the hotkey. A small GoldenDict window will open. DPD will automatically find any inflected word in the dictionary.
+Дважды щелкните, чтобы выделить любое слово на языке Пали в любом программном обеспечении или PDF-файле, и нажмите горячую клавишу. Откроется небольшое окно GoldenDict. DPS автоматически найдет в словаре любое склоняемое слово.
 
 ![image](https://user-images.githubusercontent.com/39419221/153735253-75a40715-2df2-42e6-a225-522cad58bfda.png)
 
-If you prefer, you can open the word in the main window every time. 
-- Go to Menu > Edit > Preferences (Shortcut F4) > **Scan Popup** 
-- Select "**Send translated word to main window**"
+При желании вы можете каждый раз открывать слово в главном окне.
+Нажмите Меню > Правка > НАстройки (F4) > **Всплывающее окно**
+- Выберете "**Отправлять переводимое слово в главное окно**"
 
 ![image](https://user-images.githubusercontent.com/39419221/153735268-a3c401b5-b400-4987-9a57-24b3fe63eabf.png)
 
-If you're a Digital Pāli Reader user, you can enable hotkey with a _single click_ in the preferences
-- Open DPR preferences (shortcut **%**)
-- Select "**Copy words to clipboard on click**"
+Если вы используете Digital Pāli Reader, вы можете включить использование горячих клавиш в настройках _single click_
+- Откройте DPR preferences (shortcut **%**)
+- Выберете "**Copy words to clipboard on click**"
 
 ![dpr clipboard preference](https://user-images.githubusercontent.com/64521731/151527586-9e625abc-2024-4640-bfaf-b8a03b29074a.png)
 
-Of course you can also search for pāḷi words the old-fashioned way ...
+Конечно, вы также можете искать слова на языке Пали сразу в словаре...
 
-- Go to Menu > View and click Search Pane (Shortcut **Ctrl-S**)
-- Start typing in the Search Bar and click the word you are looking for.
-- No need to use diacritics when typing in GoldenDict, it will automatically find what you are looking for.
+- Меню > Вид > Панель поиска (**Ctrl+S**)
+- Начните печатать в окне поиска и выберете искомое слово.
+- Не нужно использовать диакритику при наборе текста в GoldenDict, он автоматически найдет то, что вы ищете.
 
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/39419221/153735304-70884944-3e97-4087-8b22-78499ed4ed3c.png">
 
-Please also try out the [scan popup](https://devamitta.github.io/setup_scan_popup_ru.html) - it allows you to open a word in the dictioanry with a single click. [Only works on some operating systems]
+Также можно попробовать [всплывающее окно](https://devamitta.github.io/setup_scan_popup_ru.html) так что по одному щелчку можно открывать любое слово на Пали в словаре.
+
+[Работает не на всех операционных сиситемах]
 
 [Главная](https://devamitta.github.io/index.html)
