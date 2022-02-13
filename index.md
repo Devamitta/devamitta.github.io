@@ -1,4 +1,4 @@
-## Добро пожаловать на проект Devamitta Pāḷi Study
+## Добро пожаловать на проект DPS
 
 <!-- Devamitta Pāḷi Study on English:
 ([Eng](https://devamitta.github.io/index_eng.html)) -->
