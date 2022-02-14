@@ -52,7 +52,7 @@ GoldenDict можно установить напрямую с помощью ap
 
 ![dictionaries F3](https://user-images.githubusercontent.com/64521731/151520353-72b82a7e-e27b-49bb-bb84-394ed7bac6f1.png)
 
-Во вкладке Источники > Файлы.\
+Во вкладке Источники > Файлы.
 Нажмите Добавить и выберите папку `/Documents/GoldenDict`
 
 ![add](https://user-images.githubusercontent.com/64521731/151520594-7fc56dd9-6413-4526-8474-28db75941a61.png)
