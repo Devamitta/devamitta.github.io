@@ -1,6 +1,6 @@
 ## Установка GoldenDict на Mac
 
-Сперва загрузите последнее обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
+Загрузите последнее обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
 
 ### Распаковка
 
@@ -22,7 +22,7 @@
 
 ### Загрузка GoldenDict
 
-Загрузите версию GoldenDict подходящую для вашей системы [here](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
+Загрузите версию GoldenDict подходящую для вашей системы [здесь](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
 
 ### Установка GoldenDict
 
@@ -76,6 +76,6 @@ Click the recursive tick box √ (this makes sure GoldenDict searches in subfold
 
 Установка и настройка завершены!
 
-Далее можно посмотреть статью как  [настроить горячие клавиши](https://devamitta.github.io/setup_hotkey_ru.html) или [всплывающее окно](https://devamitta.github.io/setup_scan_popup_ru.html) так что по одному щелчку можно открывать любое слово на Пали в словаре.
+Далее можно посмотреть статьи как  [настроить горячие клавиши](https://devamitta.github.io/setup_hotkey_ru.html) или [всплывающее окно](https://devamitta.github.io/setup_scan_popup_ru.html), настройка функции по одному щелчку открывать любое слово на Пали в словаре.
 
 [Главная](https://devamitta.github.io/index.html)
