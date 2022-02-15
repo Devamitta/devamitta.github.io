@@ -66,8 +66,6 @@
 
 <img width="798" alt="select gd folder" src="https://user-images.githubusercontent.com/64521731/152542139-5f6a68b7-3d62-4393-bc01-eb82012c2ea0.png">
 
-Click the recursive tick box √ (this makes sure GoldenDict searches in subfolders).
-
 <img width="430" alt="recursive" src="https://user-images.githubusercontent.com/64521731/152542257-ac352670-7a05-4730-80ba-1a2ca2d25b9c.png">
 
 Установите флажок Рекурсивно √ (это обеспечит поиск GoldenDict во вложенных папках)
