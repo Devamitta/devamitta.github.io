@@ -1,6 +1,6 @@
 ## Установка GoldenDict на Linux
 
-Сперва загрузите последнее обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
+Загрузите последнее обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
 
 ### Создание папки GoldenDict
 
@@ -36,7 +36,7 @@ GoldenDict можно установить напрямую с помощью ap
 `sudo apt-get update`\
 `sudo apt-get install goldendict`
 
-Или выберите нужный дистрибутив из [https://pkgs.org/download/goldendict](https://pkgs.org/download/goldendict){:target="\_blank"}:
+Или выберите нужный дистрибутив из [https://pkgs.org/download/goldendict](https://pkgs.org/download/goldendict)
 
 Или напрямую из Центра Приложений
 
