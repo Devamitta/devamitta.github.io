@@ -3,7 +3,7 @@
 ### DPS распознает многие склоняемые формы слов на языке Пали
 Когда вы выбираете слово в тексте на языке Пали и нажимаете горячую клавишу, DPS автоматически распознает слова, которым принадлежит эта склоняемая форма. Например, поиск _jivhindriyassa_ покажет слово _jivhindriya_.
 
-<img width="386" alt="image" src="https://user-images.githubusercontent.com/39419221/153717161-37a4d6fc-bc73-4a24-8fa1-707efdfbb1ba.png">
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/39419221/153988194-cb7cea33-660a-48b0-9129-7d09f45b2abd.png">
 
 ### Возможность нажать на любое слово
 
@@ -32,43 +32,43 @@
 ### Компактный вид
 Перевод слова на русский и английский представлен в **одной компактной строке**, видимой сразу. Более подробная информация доступна по нажатию кнопок.
 
-<img width="535" alt="image" src="https://user-images.githubusercontent.com/39419221/153717410-33caa98c-5f6a-4d8f-9770-1ed877ce57b4.png">
+<img width="369" alt="image" src="https://user-images.githubusercontent.com/39419221/153988289-0c36aa1f-5a5f-4097-b9bf-9371a38cd149.png">
 
-### Grammar
+### Грамматическая информация
 
-Нажмите кнопку **grammar**, чтобы получить более подробную грамматическую информацию о слове.
+Нажмите кнопку **грамматика**, чтобы получить более подробную грамматическую информацию о слове.
 
-<img width="527" alt="image" src="https://user-images.githubusercontent.com/39419221/153717514-46e3e1f4-6007-4a4f-a6e0-509c219541f4.png">
+<img width="364" alt="image" src="https://user-images.githubusercontent.com/39419221/153988410-db69acab-fb4f-4b40-b30c-d55be7ee1a76.png">
 
 Можно найти информацию о корнях слова, подробное словообразование, производное слово, фонетические изменения, информацию из комментариев, аналог из санскрита и санскритский корень.
 
-<img width="537" alt="image" src="https://user-images.githubusercontent.com/39419221/153717674-cad2d344-31a4-4c3b-91f5-7d264f8526d2.png">
+<img width="507" alt="image" src="https://user-images.githubusercontent.com/39419221/153988510-8d0047d5-9e6d-4c2b-83a7-c7e1fb980fbf.png">
 
 Если вы заметили ошибку, пожалуйста, нажмите на ссылку, чтобы исправить её.
 
 ### Примеры
-Нажмите кнопку **examples**, чтобы увидеть соответствующие примеры из сутт.
+Нажмите кнопку **примеры**, чтобы увидеть соответствующие примеры из сутт.
 
-<img width="534" alt="image" src="https://user-images.githubusercontent.com/39419221/153717895-ced2b1ef-9079-4b1f-bcc2-d3fe1262df65.png">
+<img width="368" alt="image" src="https://user-images.githubusercontent.com/39419221/153988601-53a2b1f1-60ec-4601-8fc1-efd1d04c9a87.png">
 
 Если вы можете подобрать лучший пример, пожалуйста, дайте мне знать!
 
-### Склонение/Спряжение
-Нажмите кнопку **declension** или **conjugation**, чтобы увидеть все изменяемые формы слова.
+### Склонения и Спряжения
+Нажмите кнопку **склонения** или **спряжения**, чтобы увидеть все изменяемые формы слова.
 
-![image](https://user-images.githubusercontent.com/39419221/153719098-aa5df493-253b-4f8b-b6d2-1ec6c8006189.png)
+<img width="608" alt="image" src="https://user-images.githubusercontent.com/39419221/153988989-225e646b-d5db-4e43-86c2-226edb554dfa.png">
 
 Эта таблица автоматически генерируется с использованием системы основы + шаблона, например. anicc + o. Неправильно склоняемые формы имеют свои уникальные таблицы.
 
 ### Кириллица
 Хорошие новости для тех, кто читает Пали на кириллице: DPS распознает все склоняемые формы на кириллице.
 
-<img width="550" alt="image" src="https://user-images.githubusercontent.com/39419221/153718125-9dc07376-5cab-49b9-b8d8-0343ada01f38.png">
+<img width="647" alt="image" src="https://user-images.githubusercontent.com/39419221/153989064-1d34dc39-958d-456a-a80f-7c0266a5f0cf.png">
 
 ### Обратная связь
 Одним из наиболее важных аспектов DPS является обратная связь. Если вы заметили ошибку, пожалуйста, нажмите на ссылку, чтобы исправить ее. Откроется форма Google, предварительно заполненная заголовком.
 
-<img width="391" alt="image" src="https://user-images.githubusercontent.com/39419221/153718417-c68fc666-05f3-4f62-9bf9-cfde4280f629.png">
+<img width="389" alt="image" src="https://user-images.githubusercontent.com/39419221/153989458-47eac14e-eefb-4b89-a9db-a8b16350ae2b.png">
 
 Описание ошибки обычно занимает менее минуты и помогает улучшить качество словаря для всех, кто им пользуется.
 
