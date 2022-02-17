@@ -36,6 +36,6 @@ Tipitaka Pali Projector](https://www.microsoft.com/en-us/p/tipitaka-pali-project
 
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/39419221/153989644-7158da00-6c02-4daf-a595-3e30ce4b3ebe.png">
 
-Также можно попробовать [всплывающее окно](https://devamitta.github.io/setup_scan_popup_ru.html) так что по одному щелчку можно открывать любое слово на Пали в словаре. [Работает не на всех операционных сиситемах]
+Если вы используете Linux, также попробуйте [всплывающее окно](https://devamitta.github.io/setup_scan_popup_ru.html) сканирования — оно позволяет открыть слово в словаре одним щелчком мыши.
 
 [Главная](https://devamitta.github.io/index.html)
