@@ -20,6 +20,6 @@
 
 Эта работа основывается на [Digital Pāli Dictionary](https://digitalpalidictionary.github.io/index.html)
 
-Пали-Русский Словарь имеет лицензию [С указанием авторства-Некоммерческая-С сохранением условий версии 4.0 Международная](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.ru).
+Пали-Русский Словарь имеет лицензию [«Attribution-NonCommercial»(«Атрибуция-Некоммерчески») 4.0 Всемирная (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.ru).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
