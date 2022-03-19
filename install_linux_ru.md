@@ -1,6 +1,6 @@
 ## Установка GoldenDict на Linux
 
-Загрузите последнее обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
+Загрузите последнее обновление словаря с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
 
 ### Создание папки GoldenDict
 
@@ -16,7 +16,7 @@
 
 ### Распаковка
 
-Щелкните правой кнопкой мыши ZIP-файл DPS в папке «Загрузки» и откройте его с помощью диспетчера архивов.
+Щелкните правой кнопкой мыши ZIP-файл словаря в папке «Загрузки» и откройте его с помощью диспетчера архивов.
 
 ![archive manager](https://user-images.githubusercontent.com/64521731/151268770-60483e5a-ddee-45fd-852f-3573b9a7c5d2.png)
 
@@ -27,7 +27,7 @@
 Либо использйте командную строку:
 
 `cd home/your_user_name/Downloads`\
-`unzip /home/your_user_name/Downloads/dps.zip -d /home/your_user_name/Documents/GoldenDict`
+`unzip /home/your_user_name/Downloads/prd.zip -d /home/your_user_name/Documents/GoldenDict`
 
 ### Установка GoldenDict
 

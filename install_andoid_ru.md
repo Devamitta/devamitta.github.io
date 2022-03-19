@@ -1,12 +1,12 @@
 ## Установка GoldenDict на Android
 
-Загрузите последнее обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing).
+Загрузите последнее обновление словаря с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing).
 
 Установите GoldenDict из [Google Play Store](https://play.google.com/store/apps/details?id=mobi.goldendict.android.free)
 
 ![Screenshot_2022-02-12-20-15-31-19_b5a5c5cb02ca09c784c5d88160e2ec24](https://user-images.githubusercontent.com/39419221/153716231-c05e12be-1d57-4e12-a9a6-c866c4e3f54a.jpg)
 
-Используя любой файловый менеджер, скопируйте папку DPS в папку GoldenDict. Вы можете найти эту папку в корневом каталоге вашего устройства или на SD-карте, если она у вас есть.
+Используя любой файловый менеджер, скопируйте папку со словарем в папку GoldenDict. Вы можете найти эту папку в корневом каталоге вашего устройства или на SD-карте, если она у вас есть.
 
 ![Screenshot_2022-02-12-20-16-49-75_e66e28f718147b6e7216efe19a1092f5](https://user-images.githubusercontent.com/39419221/153716280-b3cac6fb-9087-4e93-b360-b658b2ffa2d0.jpg)
 

@@ -14,7 +14,7 @@
 
 <img width="470" alt="documents folder" src="https://user-images.githubusercontent.com/64521731/152540198-5e370c26-8151-4bab-aa27-1f6103174b99.png">
 
-Скопируйте распакованную папку DPS в `/Documents/GoldenDict`
+Скопируйте распакованную папку словаря в `/Documents/GoldenDict`
 
 <img width="485" alt="documents gd dpd" src="https://user-images.githubusercontent.com/64521731/152540676-3b9d3375-4fed-49bc-9343-04cc2a0595df.png">
 

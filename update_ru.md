@@ -1,12 +1,12 @@
-## Обновить DPS
+## Обновление словаря
 
 Новая версия становится доступной регулярно.
 
 Обновить очень просто.
 
-Загрузите обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
+Загрузите обновление словаря с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
 
-Распакуйте папку DPS.
+Распакуйте папку со словарем.
 
 При желании скопируйте ее в папку с вашими словарями GoldenDict.
 

@@ -1,10 +1,10 @@
 ## Установка GoldenDict на Windows
 
-Сперва загрузите последнее обновление DPS с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
+Сперва загрузите последнее обновление словаря с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
 
 ### Распаковка
 
-Щелкните правой кнопкой мыши ZIP-файл DPS в папке «Загрузки» и выберите «Извлечь все».
+Щелкните правой кнопкой мыши ZIP-файл словаря в папке «Загрузки» и выберите «Извлечь все».
 
 ![image](https://user-images.githubusercontent.com/39419221/153735610-c02a998a-6632-4c09-a0fe-159958897827.png)
 
@@ -64,7 +64,7 @@
 
 ![image](https://user-images.githubusercontent.com/39419221/153735719-f3fbcf14-df6c-4a21-b9f8-630fa2d4d0a7.png)
 
-Выберете папку DPS и нажмите __Выбор папки__
+Выберете папку словаря и нажмите __Выбор папки__
 
 ![image](https://user-images.githubusercontent.com/39419221/153735727-0ebf6f80-7423-4d45-ba17-cb93c439111a.png)
 
