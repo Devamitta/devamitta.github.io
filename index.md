@@ -8,7 +8,7 @@
 
 Далее можно [настроить горячие клавиши](https://devamitta.github.io/setup_hotkey_ru.html) или попробовать [всплывающее окно](https://devamitta.github.io/setup_scan_popup_ru.html). Это позволит вам в один клик открыть выделенное слово на Пали в GoldenDict.
 
-После успешной установки и настройки, ознакомьтесь пожалуйста с описанием основных [особенностей](https://devamitta.github.io/features_ru.html) DPS. 
+После успешной установки и настройки, ознакомьтесь пожалуйста с описанием основных [особенностей](https://devamitta.github.io/features_ru.html) Словаря. 
 
 Есть несколько удобных [расширенных функций](https://devamitta.github.io/gd_advanced_features_ru.html) GoldenDict, которые могут быть вам полезны.
 
