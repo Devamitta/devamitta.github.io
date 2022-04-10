@@ -1,6 +1,6 @@
 Это словарь с большим количеством функций работающих с помощью программы GoldenDict, или в любом другом приложении поддерживающим Stardict формат словаря. 
 
-Пали-Русский Словарь это образовательный проект и находится на стадии тестирования и редактирования. Ваши предложения и комментарии будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря.
+Пали-Русско-Пали Словарь это образовательный проект и находится на стадии тестирования и редактирования. Ваши предложения и комментарии будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря.
 
 Последнее обновление словаря можно скачать с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
 
@@ -12,7 +12,7 @@
 
 Есть несколько удобных [расширенных функций](https://devamitta.github.io/gd_advanced_features_ru.html) GoldenDict, которые могут быть вам полезны.
 
-Если вы обнаружили ошибку или у вас есть идеи об улучшении словаря, пожалуйста [сообщите](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io). Обычно это не должно занять больше минуты. 
+Если вы обнаружили ошибку или у вас есть идеи об улучшении словаря, пожалуйста [сообщите](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=devamitta.github.io). Обычно это не должно занять больше минуты. 
 
 Очень ценно иметь взгляд со стороны и свежие идеи. Также если вы программист или профессионал в Пали или как-то хотите поддержать проект, любая помощь приветствуется! Пожалуйста не стесняйтесь и [пишите на почту](mailto:devamitta@sasanarakkha.org).
 
@@ -20,6 +20,6 @@
 
 Эта работа основывается на [Digital Pāli Dictionary](https://digitalpalidictionary.github.io/index.html)
 
-Пали-Русский Словарь имеет лицензию [«Attribution-NonCommercial»(«Атрибуция-Некоммерчески») 4.0 Всемирная (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.ru).
+Пали-Русско-Пали Словарь имеет лицензию [«Attribution-NonCommercial»(«Атрибуция-Некоммерчески») 4.0 Всемирная (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.ru).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
