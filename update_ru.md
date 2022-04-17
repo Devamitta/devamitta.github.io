@@ -4,7 +4,7 @@
 
 Обновить очень просто.
 
-Загрузите обновление словаря с [Google Drive](https://drive.google.com/drive/folders/18Js2o8p4DF42ViwiDO5s7VwNcolSNwhL?usp=sharing)
+Загрузите обновление словаря [здесь](https://github.com/sasanarakkha/study-tools/tree/main/%D0%9F%D0%B0%D0%BB%D0%B8%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C)
 
 Распакуйте папку со словарем.
 
