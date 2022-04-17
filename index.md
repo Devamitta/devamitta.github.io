@@ -19,7 +19,7 @@
 Как только вы установили и настроили все, проверяйте наличие [обновлений](https://devamitta.github.io/update_ru.html) словарь регулярно, чтобы иметь доступ к последней информации словаря.
 
 Эта работа основывается на [Digital Pāli Dictionary](https://digitalpalidictionary.github.io/index.html)
-
+[здесь](https://github.com/sasanarakkha/study-tools/tree/main/%D0%9F%D0%B0%D0%BB%D0%B8%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C)
 Пали-Русско-Пали Словарь имеет лицензию [«Attribution-NonCommercial»(«Атрибуция-Некоммерчески») 4.0 Всемирная (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.ru).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
