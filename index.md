@@ -2,7 +2,7 @@
 
 Пали Словарь это образовательный проект и находится на стадии тестирования и редактирования. Ваши предложения и комментарии будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря.
 
-Последнее обновление словаря можно скачать **[здесь](https://github.com/sasanarakkha/study-tools/raw/main/%D0%9F%D0%B0%D0%BB%D0%B8%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%9F%D0%B0%D0%BB%D0%B8%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C.zip)**
+[Начать загрузку последней версии](https://github.com/sasanarakkha/study-tools/raw/main/%D0%9F%D0%B0%D0%BB%D0%B8_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%9F%D0%B0%D0%BB%D0%B8%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C.zip)
 
 Пожалуйста ознакомьтесь с инструкциями как установить и настроить GoldenDict на ([Windows](https://devamitta.github.io/install_win_ru.html) / [Mac](https://devamitta.github.io/install_mac_ru.html) / [Linux](https://devamitta.github.io/install_linux_ru.html) / [Android](https://devamitta.github.io/install_andoid_ru.html))
 
