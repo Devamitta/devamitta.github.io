@@ -4,7 +4,7 @@
 
 Обновить очень просто.
 
-Загрузите обновление словаря **[здесь](https://github.com/sasanarakkha/study-tools/raw/main/%D0%9F%D0%B0%D0%BB%D0%B8%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%9F%D0%B0%D0%BB%D0%B8%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C.zip)**
+[Начать загрузку последней версии](https://github.com/sasanarakkha/study-tools/raw/main/%D0%9F%D0%B0%D0%BB%D0%B8_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%9F%D0%B0%D0%BB%D0%B8%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C.zip)
 
 Распакуйте папку со словарем.
 
