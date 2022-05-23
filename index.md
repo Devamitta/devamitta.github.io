@@ -20,7 +20,7 @@
 
 Эта работа основывается на [Digital Pāli Dictionary](https://digitalpalidictionary.github.io/index.html)
 
-При желании можно изучать Пали используя [Anki](https://apps.ankiweb.net/). Описание по установке и настройке [здесь](https://alexeygorelov.github.io/anki-manual-ru/). Есть в доступе колода карточек, основанная на данном словаре. Пожалуйста [свяжитесь](mailto:devamitta@sasanarakkha.org) для получения свежей версии.
+При желании можно изучать Пали используя [Anki](https://apps.ankiweb.net/). Описание по установке и настройке [здесь](https://alexeygorelov.github.io/anki-manual-ru/). Есть в доступе колода карточек, основанная на данном словаре. Свежую версию можно найти [здесь.](https://sasanarakkha.github.io/study-tools/Anki_Decks/%D0%9F%D0%B0%D0%BB%D0%B8_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%90%D0%BD%D0%BA%D0%B8/%D0%9F%D0%B0%D0%BB%D0%B8_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%90%D0%BD%D0%BA%D0%B8.html)
 
 Пали-Русско-Пали Словарь имеет лицензию [«Attribution-NonCommercial»(«Атрибуция-Некоммерчески») 4.0 Всемирная (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.ru).
 
