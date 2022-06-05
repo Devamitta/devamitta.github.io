@@ -2,7 +2,7 @@
 
 
 Что бы вы ни использовали для чтения текста на Пали - [Sutta Central](https://suttacentral.net/), [Digital Pāli Reader](https://www.digitalpalireader.online/_dprhtml/index.html), [
-Tipitaka Pali Projector](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab), [Tipitaka.app](https://tipitaka.app/), документы в формате PDF или любой другой источник, возможно настроить так, чтобы при нажатии на слово сразу же открывалась соответствующая статья в словре.
+Tipitaka Pali Projector](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab), [Tipitaka.app](https://tipitaka.app/), документы в формате PDF или любой другой источник, возможно настроить так, чтобы при нажатии на слово сразу же открывалась соответствующая статья в словaре.
 
 Нажмите Меню > Правка > Настройки (F4) > **Горячие Клавиши**
 
