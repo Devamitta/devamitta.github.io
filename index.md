@@ -2,7 +2,7 @@
 
 Пали Словарь это образовательный проект и находится на стадии тестирования и редактирования. Ваши предложения и комментарии будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря.
 
-[Начать загрузку последней версии](https://github.com/sasanarakkha/study-tools/raw/main/%D0%9F%D0%B0%D0%BB%D0%B8_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%9F%D0%B0%D0%BB%D0%B8%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C.zip)
+[Начать загрузку последней версии](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-pali-dict.zip)
 
 Пожалуйста ознакомьтесь с инструкциями как установить и настроить GoldenDict на ([Windows](https://devamitta.github.io/install_win_ru.html) / [Mac](https://devamitta.github.io/install_mac_ru.html) / [Linux](https://devamitta.github.io/install_linux_ru.html) / [Android](https://devamitta.github.io/install_andoid_ru.html))
 
@@ -20,7 +20,7 @@
 
 Эта работа основывается на [Digital Pāli Dictionary](https://digitalpalidictionary.github.io/index.html)
 
-При желании можно изучать Пали используя [Anki](https://apps.ankiweb.net/). Описание по установке и настройке [здесь](https://alexeygorelov.github.io/anki-manual-ru/). Есть в доступе колода карточек, основанная на данном словаре. Свежую версию можно найти [здесь.](https://sasanarakkha.github.io/study-tools/Anki_Decks/%D0%9F%D0%B0%D0%BB%D0%B8_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%90%D0%BD%D0%BA%D0%B8/%D0%9F%D0%B0%D0%BB%D0%B8_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%90%D0%BD%D0%BA%D0%B8.html)
+При желании можно изучать Пали используя [Anki](https://apps.ankiweb.net/). Описание по установке и настройке [здесь](https://alexeygorelov.github.io/anki-manual-ru/). Есть в доступе колода карточек, основанная на данном словаре. Свежую версию можно найти [здесь.](https://sasanarakkha.github.io/study-tools/ru-pali-vocab.html)
 
 Пали-Русско-Пали Словарь имеет лицензию [«Attribution-NonCommercial»(«Атрибуция-Некоммерчески») 4.0 Всемирная (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.ru).
 
