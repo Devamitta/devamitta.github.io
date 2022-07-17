@@ -2,6 +2,8 @@
 
 Новая версия становится доступной регулярно.
 
+Вы можете проверить дату последнего обновления [здесь](https://github.com/sasanarakkha/study-tools/releases/latest)
+
 Обновить очень просто.
 
 [Начать загрузку последней версии](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-pali-dict.zip)
