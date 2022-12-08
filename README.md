@@ -16,3 +16,7 @@
 *sukhino vā khemino hontu, sabbe sattā bhavantu sukhit’attā. [(SNP 8 metta sutta)](https://suttacentral.net/snp1.8/en/sujato?layout=linebyline&reference=none&notes=asterisk&highlight=false&script=latin)*
 
 --------------
+
+[почта](mailto:devamitta@sasanarakkha.org) для связи.
+
+--------------
