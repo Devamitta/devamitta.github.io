@@ -5,7 +5,7 @@
 
 [Tools for Pāḷi Study](https://sasanarakkha.github.io/study-tools/)
 
-[статья о поддержке](https://devamitta.github.io/notes/dana.html)
+[Статья о поддержке](https://devamitta.github.io/notes/dana.html)
 
 --------------
 
