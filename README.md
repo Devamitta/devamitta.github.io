@@ -5,7 +5,7 @@
 
 [Tools for Pāḷi Study](https://sasanarakkha.github.io/study-tools/)
 
-[Статья о поддержке](https://devamitta.github.io/notes/dana.html)
+[Статьи о том как взаимодействовать с монахами](https://devamitta.github.io/notes/)
 
 --------------
 
