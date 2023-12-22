@@ -76,4 +76,4 @@
 
 Далее можно посмотреть статью как  [настроить горячие клавиши](https://devamitta.github.io/pali/setup_hotkey_ru.html), настройка функции по одному щелчку открывать любое слово на Пали в словаре.
 
-[Главная](https://devamitta.github.io/pali/index.html)
+[Главная](https://devamitta.github.io/pali/pali_dict.html)

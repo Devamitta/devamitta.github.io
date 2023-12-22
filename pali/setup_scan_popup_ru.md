@@ -24,4 +24,4 @@
 
 Пожалуйста найдите более оптимальные настройки лично для вас.
 
-[Главная](https://devamitta.github.io/pali/index.html)
+[Главная](https://devamitta.github.io/pali/pali_dict.html)

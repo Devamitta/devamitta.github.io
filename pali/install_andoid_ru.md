@@ -27,5 +27,5 @@
 
 ![Screenshot_2022-02-12-20-20-01-82_6bf3dd84459163113b585c2f39941cfa](https://user-images.githubusercontent.com/39419221/153716343-13cc1590-9bf4-46ed-8d57-7419b66e1b2f.jpg)
 
-[Главная](https://devamitta.github.io/pali/index.html)
+[Главная](https://devamitta.github.io/pali/pali_dict.html)
 

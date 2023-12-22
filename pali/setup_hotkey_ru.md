@@ -38,4 +38,4 @@ Tipitaka Pali Projector](https://www.microsoft.com/en-us/p/tipitaka-pali-project
 
 Если вы используете Linux, также попробуйте [всплывающее окно](https://devamitta.github.io/pali/setup_scan_popup_ru.html) сканирования — оно позволяет открыть слово в словаре одним щелчком мыши.
 
-[Главная](https://devamitta.github.io/pali/index.html)
+[Главная](https://devamitta.github.io/pali/pali_dict.html)

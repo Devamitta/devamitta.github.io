@@ -21,7 +21,7 @@
 
 Другие проекты:
 
-[Пали словарь](https://devamitta.github.io/pali/)
+[Пали словарь](https://devamitta.github.io/pali/pali_dict.html)
 
 [Tools for Pāḷi Study](https://sasanarakkha.github.io/study-tools/)
 

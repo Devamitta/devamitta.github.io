@@ -67,4 +67,4 @@ GoldenDict можно установить напрямую с помощью ap
 
 Далее можно посмотреть статьи как  [настроить горячие клавиши](https://devamitta.github.io/pali/setup_hotkey_ru.html) или [всплывающее окно](https://devamitta.github.io/pali/setup_scan_popup_ru.html), настройка функции по одному щелчку открывать любое слово на Пали в словаре.
 
-[Главная](https://devamitta.github.io/pali/index.html)
+[Главная](https://devamitta.github.io/pali/pali_dict.html)
