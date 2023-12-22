@@ -22,7 +22,7 @@
 
 Эта работа основывается на [Digital Pāli Dictionary](https://digitalpalidictionary.github.io/index.html). В дополнение к тому, что он охватывает намного больше слов, он также предоставляет глубокую грамматическую и морфологическую информацию.
 
-При желании можно изучать Пали используя [Anki](https://apps.ankiweb.net/). Описание по установке и настройке модно найти [здесь](https://alexeygorelov.github.io/anki-manual-ru/). Есть в доступе [Анки колода, основанная на данном словаре.](https://sasanarakkha.github.io/study-tools/ru-pali-vocab.html) Также постоянно обновляются другие [колоды для изучения Пали на Английском языке](https://sasanarakkha.github.io/study-tools/)
+При желании можно изучать Пали используя [Anki](https://apps.ankiweb.net/). Описание по установке и настройке модно найти [здесь](https://alexeygorelov.github.io/anki-manual-ru/). Есть в доступе [Анки колода, основанная на данном словаре.](https://sasanarakkha.github.io/study-tools/anki-decks/ru-pali-vocab.html) Также постоянно обновляются другие [колоды для изучения Пали на Английском языке](https://sasanarakkha.github.io/study-tools/)
 
 При поддержке Sāsanārakkha Buddhist Sanctuary ([SBS](https://sasanarakkha.org/))
 
