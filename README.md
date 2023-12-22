@@ -1,11 +1,11 @@
 
 --------------
 
-[Пали словарь](https://devamitta.github.io/pali/)
+[Пали словарь](https://devamitta.github.io/pali/pali_dict.html)
 
 [Tools for Pāḷi Study](https://sasanarakkha.github.io/study-tools/)
 
-[Статьи о том как взаимодействовать с монахами](https://devamitta.github.io/notes/)
+[Статьи о том как взаимодействовать с монахами](https://devamitta.github.io/notes/vinaya_notes.html)
 
 --------------
 
@@ -20,3 +20,5 @@
 [почта](mailto:devamitta@sasanarakkha.org) для связи.
 
 --------------
+
+Кроме того, может быть полезен [чат с ИИ](https://norbu-ai.org/ebt/), который ограничен только ранними буддийскими текстами, Дхаммой и Винайей.
