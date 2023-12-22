@@ -12,4 +12,4 @@
 
 --------------
 
-[назад к статье о поддержке](https://devamitta.github.io/notes/dana.html)
+[назад к списку статей](https://devamitta.github.io/notes/vinaya_notes.html)
