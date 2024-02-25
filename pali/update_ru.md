@@ -4,7 +4,7 @@
 
 Обновить очень просто.
 
-[Начать загрузку последней версии](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-pali-dict.zip)
+Загрузить свежую версию словаря.
 
 Распакуйте папку со словарем.
 

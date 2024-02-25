@@ -1,6 +1,6 @@
 ## Установка GoldenDict на Mac
 
-[Начать загрузку последней версии словаря](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-pali-dict.zip)
+[Начать загрузку последней версии словаря](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-dpd.zip)
 
 ### Распаковка
 

@@ -1,6 +1,7 @@
 ## Установка GoldenDict на Android
 
-[Начать загрузку последней версии словаря](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-pali-dict.zip)
+[Начать загрузку последней версии словаря](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-dpd.zip)
+
 
 Установите GoldenDict из [Google Play Store](https://play.google.com/store/apps/details?id=mobi.goldendict.android.free)
 
