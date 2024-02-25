@@ -5,8 +5,8 @@
 Пали Словарь это образовательный проект и находится на стадии тестирования и редактирования. Ваши предложения и комментарии будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря.
 
 Начать загрузку последней версии в форматах: 
-- [GoldenDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-dpd.zip)
-- [MDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-dpd.mdx)
+- [GoldenDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru_dpd.zip)
+- [MDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-dpd-mdict.mdx)
 
 Пожалуйста ознакомьтесь с инструкциями как установить и настроить GoldenDict на ([Windows](https://devamitta.github.io/pali/install_win_ru.html) / [Mac](https://devamitta.github.io/pali/install_mac_ru.html) / [Linux](https://devamitta.github.io/pali/install_linux_ru.html) / [Android](https://devamitta.github.io/pali/install_andoid_ru.html))
 
@@ -16,7 +16,7 @@
 
 Есть несколько удобных [расширенных функций](https://devamitta.github.io/pali/gd_advanced_features_ru.html) GoldenDict, которые могут быть вам полезны.
 
-!Внимание, Пали Словарь содержит значительное количество записей, которые были автоматически переведены искусственным интеллектом с оригинального DPD. Эти записи помечены как "пер. ИИ".
+**!Внимание!**  Пали Словарь содержит значительное количество записей, которые были автоматически переведены искусственным интеллектом с оригинального DPD, и еще не проверены. Эти записи помечены как "пер. ИИ".
 
 Если вы обнаружили ошибку или у вас есть идеи об улучшении словаря, пожалуйста [сообщите](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=devamitta.github.io). Обычно это не должно занять больше минуты. 
 
