@@ -14,6 +14,8 @@
 
 Есть несколько удобных [расширенных функций](https://devamitta.github.io/pali/gd_advanced_features_ru.html) GoldenDict, которые могут быть вам полезны.
 
+!Внимание, Пали Словарь содержит значительное количество записей, которые были автоматически переведены искусственным интеллектом с оригинального DPD. Эти записи помечены как "пер. ИИ".
+
 Если вы обнаружили ошибку или у вас есть идеи об улучшении словаря, пожалуйста [сообщите](https://docs.google.com/forms/d/1iMD9sCSWFfJAFCFYuG9HRIyrr9KFRy0nAOVApM998wM/viewform?usp=pp_url&entry.1433863141=devamitta.github.io). Обычно это не должно занять больше минуты. 
 
 Всегда очень ценна [поддержка проекта.](https://devamitta.github.io/pali/support_ru.html)
