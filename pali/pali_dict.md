@@ -4,7 +4,9 @@
 
 Пали Словарь это образовательный проект и находится на стадии тестирования и редактирования. Ваши предложения и комментарии будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря.
 
-[Начать загрузку последней версии](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-pali-dict.zip)
+Начать загрузку последней версии в форматах: 
+- [GoldenDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-dpd.zip)
+- [MDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-dpd.mdx)
 
 Пожалуйста ознакомьтесь с инструкциями как установить и настроить GoldenDict на ([Windows](https://devamitta.github.io/pali/install_win_ru.html) / [Mac](https://devamitta.github.io/pali/install_mac_ru.html) / [Linux](https://devamitta.github.io/pali/install_linux_ru.html) / [Android](https://devamitta.github.io/pali/install_andoid_ru.html))
 
@@ -24,7 +26,7 @@
 
 Эта работа основывается на [Digital Pāli Dictionary](https://digitalpalidictionary.github.io/index.html). В дополнение к тому, что он охватывает намного больше слов, он также предоставляет глубокую грамматическую и морфологическую информацию.
 
-При желании можно изучать Пали используя [Anki](https://apps.ankiweb.net/). Описание по установке и настройке модно найти [здесь](https://alexeygorelov.github.io/anki-manual-ru/). Есть в доступе [Анки колода, основанная на данном словаре.](https://sasanarakkha.github.io/study-tools/anki-decks/ru-pali-vocab.html) Также постоянно обновляются другие [колоды для изучения Пали на Английском языке](https://sasanarakkha.github.io/study-tools/)
+При желании можно изучать Пали используя [Anki](https://apps.ankiweb.net/). Описание по установке и настройке можно найти [здесь](https://alexeygorelov.github.io/anki-manual-ru/). Есть в доступе [Анки колода, основанная на данном словаре.](https://sasanarakkha.github.io/study-tools/anki-decks/ru-pali-vocab.html) Также постоянно обновляются другие [колоды для изучения Пали на Английском языке](https://sasanarakkha.github.io/study-tools/)
 
 При поддержке Sāsanārakkha Buddhist Sanctuary ([SBS](https://sasanarakkha.org/))
 
