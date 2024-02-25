@@ -5,10 +5,12 @@
 Пали Словарь это образовательный проект и находится на стадии тестирования и редактирования. Ваши предложения и комментарии будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря.
 
 Начать загрузку последней версии в форматах: 
-- [GoldenDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru_dpd.zip)
+- [GoldenDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-dpd.zip)
 - [MDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-dpd-mdict.mdx)
 
 Пожалуйста ознакомьтесь с инструкциями как установить и настроить GoldenDict на ([Windows](https://devamitta.github.io/pali/install_win_ru.html) / [Mac](https://devamitta.github.io/pali/install_mac_ru.html) / [Linux](https://devamitta.github.io/pali/install_linux_ru.html) / [Android](https://devamitta.github.io/pali/install_andoid_ru.html))
+
+Описание установки словаря на Андроид можно почитать на английском для приложения [MDict](https://digitalpalidictionary.github.io/install_android_mdict.html) и [DictTango](https://digitalpalidictionary.github.io/install_android_dicttango.html). Также инструкция для [iOS](https://digitalpalidictionary.github.io/install_ios.html) тоже доступна на английском.
 
 Далее можно [настроить горячие клавиши](https://devamitta.github.io/pali/setup_hotkey_ru.html) или попробовать [всплывающее окно](https://devamitta.github.io/pali/setup_scan_popup_ru.html). Это позволит вам в один клик открыть выделенное слово на Пали в GoldenDict.
 
