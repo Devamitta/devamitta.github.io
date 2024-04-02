@@ -10,9 +10,7 @@
 
 Пали Словарь это образовательный проект и находится на стадии тестирования и редактирования. Ваши предложения и комментарии будут неоценимой помощью в улучшении качества данной работы и будут полезны всем пользователям словаря.
 
-Начать загрузку последней версии в форматах: 
-- [GoldenDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-dpd.zip)
-- [MDict](https://github.com/sasanarakkha/study-tools/releases/latest/download/ru-dpd-mdict.mdx)
+Загрузить свежии версии в разных форматах на [этой страницы на GitHub](https://github.com/digitalpalidictionary/rus-release/releases): 
 
 Пожалуйста ознакомьтесь с инструкциями как установить и настроить GoldenDict на ([Windows](https://devamitta.github.io/pali/install_win_ru.html) / [Mac](https://devamitta.github.io/pali/install_mac_ru.html) / [Linux](https://devamitta.github.io/pali/install_linux_ru.html) / [Android](https://devamitta.github.io/pali/install_andoid_ru.html))
 
