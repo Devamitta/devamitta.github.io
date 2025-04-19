@@ -1,7 +1,7 @@
 
 --------------
 
-[Пали словарь](https://digitalpalidictionary.github.io/rus/)
+[Пали словарь](https://devamitta.github.io/dpd.rus/)
 
 [Tools for Pāḷi Study](https://sasanarakkha.github.io/study-tools/)
 
