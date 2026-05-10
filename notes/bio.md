@@ -29,7 +29,7 @@
 
 --------------
 
-Связаться можно по [почте](mailto:devamitta@sasanarakkha.org) и [через телеграм](notes/questions.md).
+Связаться можно по [почте](mailto:devamitta@sasanarakkha.org) и [через телеграм](/notes/questions.md).
 
 --------------
 
