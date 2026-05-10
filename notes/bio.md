@@ -25,11 +25,11 @@
 - [YouTube](https://www.youtube.com/@vladaskinazi2715/search?query=дэвамитта)
 - [VK](https://vkvideo.ru/@javanapost?q=дэвамитта)
 - [Telegram](https://t.me/bodisatva) поиск по #БхантеДэвамитта
-- [Статьи о монашеской дисциплине](/notes/vinaya_notes.md)
+- [Статьи о монашеской дисциплине](/notes/vinaya_notes.html)
 
 --------------
 
-Связаться можно по [почте](mailto:devamitta@sasanarakkha.org) и [через телеграм](/notes/questions.md).
+Связаться можно по [почте](mailto:devamitta@sasanarakkha.org) и [через телеграм](/notes/questions.html).
 
 --------------
 
