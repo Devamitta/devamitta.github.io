@@ -5,7 +5,9 @@
 
 [Tools for Pāḷi Study](https://sasanarakkha.github.io/study-tools/)
 
-[Статьи о том как взаимодействовать с монахами](https://devamitta.github.io/notes/vinaya_notes.html)
+[Статьи о том как взаимодействовать с монахами](notes/vinaya_notes.html)
+
+[Дэвамитта Бхиккху](notes/bio.html)
 
 --------------
 

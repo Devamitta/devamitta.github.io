@@ -3,25 +3,25 @@
 
 Статьи:
 
-[Зачем Виная?](https://devamitta.github.io/notes/BMC.html)
+[Зачем Виная?](/notes/BMC.html)
 
-[О поддержке монахов.](https://devamitta.github.io/notes/dana.html)
+[О поддержке монахов.](/notes/dana.html)
 
-[Кто такой помошник монаха?](https://devamitta.github.io/notes/kappiya.html)
+[Кто такой помошник монаха?](/notes/kappiya.html)
 
-[Что такое приглашение на поддержку?](https://devamitta.github.io/notes/pavarana.html)
+[Что такое приглашение на поддержку?](/notes/pavarana.html)
 
-[Нюансы с предложением еды и медицины.](https://devamitta.github.io/notes/food.html)
+[Нюансы с предложением еды и медицины.](/notes/food.html)
 
-[Сангха Дана.](https://devamitta.github.io/notes/sangha-dana.html)
+[Сангха Дана.](/notes/sangha-dana.html)
 
-[Благотворительность](https://devamitta.github.io/notes/caga.html)
+[Благотворительность](/notes/caga.html)
 
 --------------
 
 Другие проекты:
 
-[Пали словарь](https://devamitta.github.io/pali/pali_dict.html)
+[Пали словарь](/pali/pali_dict.html)
 
 [Tools for Pāḷi Study](https://sasanarakkha.github.io/study-tools/)
 

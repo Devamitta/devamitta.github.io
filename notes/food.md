@@ -30,4 +30,4 @@
 
 --------------
 
-[назад к списку статей](https://devamitta.github.io/notes/vinaya_notes.html)
+[назад к списку статей](/notes/vinaya_notes.html)
