@@ -22,9 +22,8 @@
 
 Аудио и видео лекций и бесед можно найти:
 
-- [YouTube](https://www.youtube.com/@vladaskinazi2715/search?query=дэвамитта)
-- [VK](https://vkvideo.ru/@javanapost?q=дэвамитта)
-- [Telegram](https://t.me/bodisatva) поиск по #БхантеДэвамитта
+- [YouTube](https://www.youtube.com/channel/UCXhlns5XXQlMbCxaE4XX9oQ)
+- [Гугл Диск](https://drive.google.com/drive/folders/1-NnsSi1Jnne9IkOOkxRC_iGJvcEbWcKW?usp=share_link)
 - [Статьи о монашеской дисциплине](/notes/vinaya_notes.html)
 
 --------------
